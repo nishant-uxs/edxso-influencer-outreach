@@ -1,0 +1,14 @@
+{
+  "niche": "technology",
+  "discovered": 55,
+  "passed_filter": 54,
+  "enriched": 54,
+  "messages_generated": 54,
+  "emails_attempted": 54,
+  "emails_sent_or_simulated": 15,
+  "started_at": "2026-10-01T16:29:43.716835Z",
+  "finished_at": "2026-10-01T16:34:44.566905Z",
+  "notes": [
+    "discovery_source=youtube"
+  ]
+}
