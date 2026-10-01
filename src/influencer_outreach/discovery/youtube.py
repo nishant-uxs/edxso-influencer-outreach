@@ -38,6 +38,16 @@ DEFAULT_QUERIES: dict[str, list[str]] = {
         "vscode tips productivity",
         "api design rest graphql",
         "coding interview prep",
+        "fastapi tutorial beginner",
+        "nextjs portfolio project",
+        "leetcode medium explained",
+        "docker compose beginner",
+        "git github workflow tips",
+        "css layout tips",
+        "typescript for beginners",
+        "backend engineering diary",
+        "indie hacker build in public",
+        "developer productivity setup",
     ],
     "crypto": [
         "crypto explained beginners",
@@ -66,47 +76,94 @@ DEFAULT_QUERIES: dict[str, list[str]] = {
 class YouTubeDiscovery(DiscoveryProvider):
     name = "youtube"
 
-    def __init__(self, api_key: str = "", timeout: float = 30.0) -> None:
+    def __init__(
+        self,
+        api_key: str = "",
+        timeout: float = 30.0,
+        min_followers: int = 5_000,
+        max_followers: int = 100_000,
+        prefer_micro: bool = True,
+    ) -> None:
         self.api_key = (api_key or "").strip()
         self.timeout = timeout
+        self.min_followers = min_followers
+        self.max_followers = max_followers
+        self.prefer_micro = prefer_micro
         self._client = httpx.Client(timeout=timeout, follow_redirects=True)
 
     def discover(self, niche: str, limit: int) -> list[InfluencerProfile]:
         niche_key = niche.lower().strip()
-        queries = DEFAULT_QUERIES.get(niche_key, [f"{niche} creator", f"{niche} tips"])
-        profiles: dict[str, InfluencerProfile] = {}
+        queries = list(DEFAULT_QUERIES.get(niche_key, [f"{niche} creator", f"{niche} tips"]))
+        # Long-tail queries increase micro-creator hit rate
+        queries.extend(
+            [
+                f"{niche_key} tips for beginners small channel",
+                f"{niche_key} career advice indie",
+                f"learn {niche_key} coding channel",
+            ]
+        )
+        micro: dict[str, InfluencerProfile] = {}
+        extras: dict[str, InfluencerProfile] = {}
 
         if self.api_key:
             logger.info("Discovering via YouTube Data API (%s queries)", len(queries))
             for query in queries:
-                if len(profiles) >= limit:
+                if len(micro) >= limit:
                     break
-                for item in self._api_search(query, max(10, limit // len(queries) + 5)):
+                for item in self._api_search(query, max(15, limit // max(len(queries), 1) + 8)):
                     channel_id = item.get("channel_id")
-                    if not channel_id or channel_id in profiles:
+                    if not channel_id or channel_id in micro or channel_id in extras:
                         continue
                     profile = self._api_channel_to_profile(channel_id, niche_key)
-                    if profile:
-                        profiles[channel_id] = profile
-                    if len(profiles) >= limit:
-                        break
+                    if not profile:
+                        continue
+                    self._bucket(profile, channel_id, micro, extras, limit)
         else:
             logger.info(
                 "No YOUTUBE_API_KEY — using yt-dlp public search fallback for niche=%s",
                 niche_key,
             )
+            seen_ids: set[str] = set()
             for query in queries:
-                if len(profiles) >= limit:
+                if len(micro) >= limit:
                     break
-                for profile in self._ytdlp_search(query, niche_key, per_query=12):
-                    if profile.id not in profiles:
-                        profiles[profile.id] = profile
-                    if len(profiles) >= limit:
-                        break
+                for profile in self._ytdlp_search(query, niche_key, per_query=15):
+                    if profile.id in seen_ids:
+                        continue
+                    seen_ids.add(profile.id)
+                    self._bucket(profile, profile.id, micro, extras, limit)
 
-        results = list(profiles.values())[:limit]
-        logger.info("Discovered %s unique YouTube profiles", len(results))
+        if self.prefer_micro and len(micro) >= min(20, limit):
+            results = list(micro.values())[:limit]
+        else:
+            # Still return real profiles; filter stage will classify brand-fit
+            merged = list(micro.values()) + list(extras.values())
+            results = merged[:limit]
+
+        logger.info(
+            "Discovered %s YouTube profiles (%s in micro band %s-%s)",
+            len(results),
+            sum(1 for p in results if self._in_micro_band(p)),
+            self.min_followers,
+            self.max_followers,
+        )
         return results
+
+    def _in_micro_band(self, profile: InfluencerProfile) -> bool:
+        return self.min_followers <= profile.follower_count <= self.max_followers
+
+    def _bucket(
+        self,
+        profile: InfluencerProfile,
+        key: str,
+        micro: dict[str, InfluencerProfile],
+        extras: dict[str, InfluencerProfile],
+        limit: int,
+    ) -> None:
+        if self._in_micro_band(profile):
+            micro[key] = profile
+        else:
+            extras[key] = profile
 
     @retry(wait=wait_exponential(multiplier=1, min=1, max=8), stop=stop_after_attempt(3))
     def _api_search(self, query: str, max_results: int) -> list[dict[str, str]]:

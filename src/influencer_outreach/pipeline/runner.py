@@ -27,7 +27,12 @@ class OutreachPipeline:
     def __init__(self, settings: Settings) -> None:
         self.settings = settings
         self.settings.ensure_dirs()
-        self.discovery = YouTubeDiscovery(api_key=settings.youtube_api_key)
+        self.discovery = YouTubeDiscovery(
+            api_key=settings.youtube_api_key,
+            min_followers=settings.min_followers,
+            max_followers=settings.max_followers,
+            prefer_micro=True,
+        )
         self.filters = BrandFitFilter(
             FilterConfig(
                 niche=settings.niche,
