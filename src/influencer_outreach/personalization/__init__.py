@@ -1,7 +1,17 @@
 from influencer_outreach.personalization.personalizer import (
     LLMPersonalizer,
-    TemplatePersonalizer,
+    LocalAIPersonalizer,
     build_personalizer,
+    extract_signals,
 )
 
-__all__ = ["LLMPersonalizer", "TemplatePersonalizer", "build_personalizer"]
+# Backward-compatible alias used in older tests/docs
+TemplatePersonalizer = LocalAIPersonalizer
+
+__all__ = [
+    "LLMPersonalizer",
+    "LocalAIPersonalizer",
+    "TemplatePersonalizer",
+    "build_personalizer",
+    "extract_signals",
+]

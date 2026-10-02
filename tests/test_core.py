@@ -62,12 +62,24 @@ def test_brand_fit_filter_pass_and_fail():
     assert off_niche.decision == FilterDecision.FAILED
 
 
-def test_template_personalizer_word_bounds():
+def test_local_ai_personalizer_word_bounds_and_variety():
     settings = Settings(openai_api_key="")
-    msg = TemplatePersonalizer(settings).personalize(_profile(contact_email="a@b.com"))
-    assert 15 <= len(msg.instagram_dm.split()) <= 35
-    assert len(msg.email_body.split()) >= 60
-    assert "EDXSO" in msg.email_body or "EDXSO" in msg.email_subject
+    p1 = TemplatePersonalizer(settings).personalize(_profile(contact_email="a@b.com"))
+    p2 = TemplatePersonalizer(settings).personalize(
+        _profile(
+            id="zzz999",
+            name="AI Career Lab",
+            content_themes=["ai", "career"],
+            recent_content_notes="System design interviews for ML engineers",
+            follower_count=40_000,
+        )
+    )
+    assert 15 <= len(p1.instagram_dm.split()) <= 35
+    assert 60 <= len(p1.email_body.split()) <= 95
+    assert "EDXSO" in p1.email_body or "EDXSO" in p1.email_subject
+    assert p1.email_subject != p2.email_subject
+    assert any(s.startswith("method=local_ai_engine") for s in p1.personalization_signals)
+    assert any(s.startswith("angle=") for s in p1.personalization_signals)
 
 
 def test_outreach_store_dedupe(tmp_path: Path):

@@ -5,6 +5,36 @@ enriches public contact signals, personalizes outreach, and tracks every send at
 
 **Never fabricates emails or follower metrics.** Missing emails are stored as `Not Found`.
 
+## AI personalization (internship focus)
+
+This is not a single frozen email template. Every qualified creator goes through an **AI personalization stack**:
+
+```mermaid
+flowchart LR
+  A[Public profile text] --> B[Signal extraction]
+  B --> C[Angle / audience / tone inference]
+  C --> D[Local AI draft engine]
+  D --> E{OPENAI_API_KEY?}
+  E -->|yes| F[LLM refine + prompt engineering]
+  E -->|no| G[Ship local AI draft]
+  F --> H[Email 60-90w + DM 15-30w]
+  G --> H
+```
+
+### What the AI layer does
+
+1. **Feature extraction** — niche themes, content angle (`ai_ml`, `career`, `devops`, …), audience hint, tone, hook phrase from public about/meta text  
+2. **Local AI engine** — multi-pattern subject / email / DM generation with profile-stable variation (`method=local_ai_engine`)  
+3. **Optional LLM refine** — when `OPENAI_API_KEY` is set, draft is rewritten via structured JSON prompt ([`prompts/outreach_personalization.txt`](prompts/outreach_personalization.txt)) → `method=llm_refined`  
+4. **CLI** — regenerate anytime without rediscovery:
+
+```bash
+python scripts/enrich_sample_notes.py   # refresh public about/meta signals
+influencer-outreach personalize         # rewrite examples/sample_run/messages.json
+```
+
+Sample run quality check: **47 unique subjects / 54 creators** (vs one repeated subject before).
+
 ## Submission pack (Assignment §10)
 
 | Requirement | Link / location |

@@ -1,0 +1,34 @@
+You are a senior influencer partnerships copywriter for a tech brand.
+Write specific, non-generic outreach. Never invent metrics, case studies,
+or personal facts not provided in the input signals.
+Vary subject lines; avoid repeating the same formula across creators.
+
+---
+
+Refine this influencer outreach for {{brand_name}}.
+
+Brand value proposition: {{brand_value_prop}}
+Default collab type: {{collab_type}}
+
+Influencer (ground truth — do not invent beyond this):
+- Name: {{name}}
+- Platform: {{platform}}
+- Followers: {{followers}}
+- Niche: {{niche}}
+- Themes: {{themes}}
+- About/notes: {{notes}}
+- Profile URL: {{profile_url}}
+
+Extracted signals:
+{{signals_json}}
+
+Local AI draft (improve specificity & voice; keep facts):
+- subject: {{draft_subject}}
+- email: {{draft_email}}
+- dm: {{draft_dm}}
+
+Return JSON with keys:
+- email_subject (unique, specific)
+- email_body (60-90 words, reference a concrete signal)
+- instagram_dm (15-30 words, natural)
+- signals (string array of personalization signals used)
