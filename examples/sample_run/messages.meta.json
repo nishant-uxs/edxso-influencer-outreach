@@ -1,0 +1,9 @@
+{
+  "count": 54,
+  "unique_subjects": 54,
+  "methods": [
+    "method=llm_refined"
+  ],
+  "llm_refined": 54,
+  "llm_enabled": true
+}

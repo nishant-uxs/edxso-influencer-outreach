@@ -315,40 +315,72 @@ class LLMPersonalizer:
         draft = self._local.personalize(profile)
         if not self.settings.openai_api_key:
             return draft
-        try:
-            from openai import OpenAI
 
-            client = OpenAI(
-                api_key=self.settings.openai_api_key,
-                base_url=self.settings.openai_base_url,
-            )
-            sig = extract_signals(profile, self.settings, method="llm_refined")
-            user_prompt = self._build_prompt(profile, sig, draft)
-            completion = client.chat.completions.create(
-                model=self.settings.openai_model,
-                messages=[
-                    {"role": "system", "content": self.SYSTEM_PROMPT},
-                    {"role": "user", "content": user_prompt},
-                ],
-                response_format={"type": "json_object"},
-                temperature=0.85,
-            )
-            data = json.loads(completion.choices[0].message.content or "{}")
-            signals = list(data.get("signals") or sig.as_list())
-            if "method=llm_refined" not in signals:
-                signals.append("method=llm_refined")
-            return OutreachMessages(
-                influencer_id=profile.id,
-                email_subject=str(data.get("email_subject") or draft.email_subject),
-                email_body=_fit_word_range(str(data.get("email_body") or draft.email_body), 60, 95),
-                instagram_dm=_fit_word_range(
-                    str(data.get("instagram_dm") or draft.instagram_dm), 15, 30
-                ),
-                personalization_signals=signals,
-            )
-        except Exception as exc:  # noqa: BLE001
-            logger.warning("LLM personalization failed, using local AI engine: %s", exc)
-            return draft
+        models = [self.settings.openai_model]
+        for extra in self.settings.openai_fallback_models.split(","):
+            name = extra.strip()
+            if name and name not in models:
+                models.append(name)
+
+        last_exc: Exception | None = None
+        for model in models:
+            try:
+                return self._llm_refine(profile, draft, model=model)
+            except Exception as exc:  # noqa: BLE001
+                last_exc = exc
+                msg = str(exc)
+                if any(x in msg for x in ("429", "RESOURCE_EXHAUSTED", "404", "NOT_FOUND", "503", "UNAVAILABLE", "high demand")):
+                    logger.warning("LLM model %s failed (%s); trying fallback", model, msg[:160])
+                    continue
+                logger.warning("LLM personalization failed, using local AI engine: %s", exc)
+                return draft
+        logger.warning("All LLM models failed, using local AI engine: %s", last_exc)
+        return draft
+
+    def _llm_refine(
+        self,
+        profile: InfluencerProfile,
+        draft: OutreachMessages,
+        *,
+        model: str,
+    ) -> OutreachMessages:
+        from openai import OpenAI
+
+        client = OpenAI(
+            api_key=self.settings.openai_api_key,
+            base_url=self.settings.openai_base_url,
+        )
+        sig = extract_signals(profile, self.settings, method="llm_refined")
+        user_prompt = self._build_prompt(profile, sig, draft)
+        completion = client.chat.completions.create(
+            model=model,
+            messages=[
+                {"role": "system", "content": self.SYSTEM_PROMPT},
+                {"role": "user", "content": user_prompt},
+            ],
+            response_format={"type": "json_object"},
+            temperature=0.85,
+        )
+        raw = completion.choices[0].message.content or "{}"
+        raw = raw.strip()
+        if raw.startswith("```"):
+            raw = raw.strip("`")
+            if raw.lower().startswith("json"):
+                raw = raw[4:].strip()
+        data = json.loads(raw or "{}")
+        signals = list(data.get("signals") or sig.as_list())
+        if "method=llm_refined" not in signals:
+            signals.append("method=llm_refined")
+        signals.append(f"model={model}")
+        return OutreachMessages(
+            influencer_id=profile.id,
+            email_subject=str(data.get("email_subject") or draft.email_subject),
+            email_body=_fit_word_range(str(data.get("email_body") or draft.email_body), 60, 95),
+            instagram_dm=_fit_word_range(
+                str(data.get("instagram_dm") or draft.instagram_dm), 15, 30
+            ),
+            personalization_signals=signals,
+        )
 
     def _build_prompt(
         self,

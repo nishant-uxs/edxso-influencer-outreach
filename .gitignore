@@ -13,6 +13,7 @@ data/outreach/*
 !data/processed/.gitkeep
 !data/outreach/.gitkeep
 *.db
+examples/sample_run/messages.checkpoint.json
 .DS_Store
 .idea/
 .vscode/

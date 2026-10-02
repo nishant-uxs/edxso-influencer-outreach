@@ -14,26 +14,42 @@ flowchart LR
   A[Public profile text] --> B[Signal extraction]
   B --> C[Angle / audience / tone inference]
   C --> D[Local AI draft engine]
-  D --> E{OPENAI_API_KEY?}
-  E -->|yes| F[LLM refine + prompt engineering]
-  E -->|no| G[Ship local AI draft]
+  D --> E{OPENAI-compatible LLM}
+  E --> F[Prompt-engineered refine]
   F --> H[Email 60-90w + DM 15-30w]
-  G --> H
 ```
 
 ### What the AI layer does
 
 1. **Feature extraction** — niche themes, content angle (`ai_ml`, `career`, `devops`, …), audience hint, tone, hook phrase from public about/meta text  
-2. **Local AI engine** — multi-pattern subject / email / DM generation with profile-stable variation (`method=local_ai_engine`)  
-3. **Optional LLM refine** — when `OPENAI_API_KEY` is set, draft is rewritten via structured JSON prompt ([`prompts/outreach_personalization.txt`](prompts/outreach_personalization.txt)) → `method=llm_refined`  
-4. **CLI** — regenerate anytime without rediscovery:
+2. **Local AI draft** — multi-pattern subject / email / DM generation (`method=local_ai_engine`)  
+3. **LLM refine (used in sample run)** — Gemini via OpenAI-compatible API + structured JSON prompt ([`prompts/outreach_personalization.txt`](prompts/outreach_personalization.txt)) → `method=llm_refined`  
+4. **Model rotation / fallbacks** — free-tier resilient (`gemini-flash-lite-latest`, `gemini-3.1-flash-lite`, `gemini-3.5-flash-lite`, `gemini-3.6-flash`, …)  
+5. **CLI**
 
 ```bash
-python scripts/enrich_sample_notes.py   # refresh public about/meta signals
-influencer-outreach personalize         # rewrite examples/sample_run/messages.json
+python scripts/enrich_sample_notes.py          # refresh public about/meta signals
+python scripts/batch_llm_personalize.py        # LLM-refine all sample creators
+# or:
+influencer-outreach personalize
 ```
 
-Sample run quality check: **47 unique subjects / 54 creators** (vs one repeated subject before).
+### Live AI sample metrics
+
+From [`examples/sample_run/messages.meta.json`](examples/sample_run/messages.meta.json):
+
+| Metric | Value |
+|--------|-------|
+| Messages | **54** |
+| LLM-refined | **54 / 54** |
+| Unique subjects | **54 / 54** |
+| Primary models used | Gemini Flash Lite / 3.x Flash family |
+
+Example subjects from the real LLM run:
+
+- *Helping your early-career devs bridge the gap to professional tech roles*
+- *Engineering rigor in AI content: Collaboration with EDXSO*
+- *Patrick, leveling up software engineers with applied AI tools*
 
 ## Submission pack (Assignment §10)
 
@@ -44,7 +60,9 @@ Sample run quality check: **47 unique subjects / 54 creators** (vs one repeated 
 | Working demo / screenshots | [docs/screenshots/](docs/screenshots/) · [docs/demo/](docs/demo/) |
 | Influencer dataset (54 real micro-creators) | [examples/sample_run/influencers.csv](examples/sample_run/influencers.csv) |
 | Filter report | [examples/sample_run/filter_report.csv](examples/sample_run/filter_report.csv) |
-| Sample personalized outreach messages | [examples/sample_run/messages.json](examples/sample_run/messages.json) |
+| Sample personalized outreach messages | [examples/sample_run/messages.json](examples/sample_run/messages.json) (**54/54 LLM-refined**) |
+| AI run metadata | [examples/sample_run/messages.meta.json](examples/sample_run/messages.meta.json) |
+| Enriched profile signals | [examples/sample_run/enriched_profiles.json](examples/sample_run/enriched_profiles.json) |
 | Outreach tracker | [examples/sample_run/outreach_tracker.csv](examples/sample_run/outreach_tracker.csv) |
 | Run summary | [examples/sample_run/run_summary.json](examples/sample_run/run_summary.json) |
 | Automation workflow | CLI pipeline `influencer-outreach run` · [Mermaid flows](#architecture) |
@@ -117,7 +135,7 @@ flowchart TB
     YTAPI["YouTube Data API"]
     YTDLP["yt-dlp public search"]
     WEB["Public profile / website HTML"]
-    LLM["OpenAI-compatible API<br/>optional"]
+    LLM["Gemini / OpenAI-compatible LLM"]
     SMTP["SMTP relay<br/>optional"]
   end
 
@@ -277,7 +295,7 @@ flowchart LR
 | Discovery | `discovery/youtube.py` | YouTube Data API if `YOUTUBE_API_KEY` is set; otherwise public `yt-dlp` search |
 | Filter | `filtering/brand_fit.py` | Micro band (5k–100k), platform, engagement soft-check, tech niche keywords |
 | Enrich | `enrichment/enricher.py` | Concurrent public HTML scrape for mailto / website; no invented contacts |
-| Personalize | `personalization/` | Template engine by default; optional OpenAI-compatible LLM |
+| Personalize | `personalization/` | Local AI draft + **LLM refine** (Gemini OpenAI-compat); prompt in `prompts/` |
 | Send | `sending/sender.py` | Simulate by default; optional SMTP |
 | Track | `tracking/store.py` | SQLite + JSON/CSV exports, dedupe keys |
 
@@ -362,7 +380,8 @@ src/influencer_outreach/
 | [pandas](https://pandas.pydata.org/) | Yes | CSV exports |
 | SQLite (stdlib) | Yes | Idempotent outreach tracking |
 | SMTP (`smtplib`) | Optional | Real email send when `SMTP_*` configured |
-| OpenAI-compatible API | Optional (`OPENAI_API_KEY`) | LLM personalization; template fallback otherwise |
+| [Gemini](https://ai.google.dev/) via OpenAI-compatible API | Yes for sample AI run | LLM personalization (`gemini-flash-lite-latest` + Flash family fallbacks) |
+| OpenAI / Groq / other OpenAI-compat | Optional | Drop-in via `OPENAI_BASE_URL` + `OPENAI_API_KEY` |
 | [tenacity](https://tenacity.readthedocs.io/) | Yes | Retry for flaky network calls |
 | pytest | Dev | Unit tests (`tests/`) |
 

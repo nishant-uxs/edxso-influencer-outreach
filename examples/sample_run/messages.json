@@ -1,441 +1,374 @@
 [
   {
     "influencer_id": "UCbaLxxQDqvAB8GWiW9TaM4w",
-    "email_subject": "Your mid micro technology viewers + our UGC content creation",
-    "email_body": "Hi EngX, I came across your youtube channel while researching technology and educational content creators \u2014 specifically your recent angle on Were a tech community here to help you learn new technologies, land a job, an.... The practical-educational tone lands well with early-career developers job-hunting. At EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cWere a tech community here to help you learn new technologies, land a job, and join a p...\u201d could feel native to your audience (mid",
-    "instagram_dm": "Hi EngX, your technology posts (Were a tech community here t) fit our UGC content creation. Quick collab chat?",
+    "email_subject": "Helping your early-career devs bridge the gap to professional tech roles",
+    "email_body": "Hi EngX, I\u2019ve been following your YouTube channel and really respect your mission to help early-career developers learn new technologies and land a job. At EDXSO, we build AI-powered creator collaboration tools designed specifically for tech educators and builders. We'd love to partner on some organic UGC content creation that shows your community how to leverage smart tools while navigating their tech job-hunting journey. Would you be open to exploring a quick collaboration concept tailored to your audience?",
+    "instagram_dm": "Hi EngX! Love how your tech community helps developers learn and land jobs. Quick chat about a UGC content collab with EDXSO?",
     "personalization_signals": [
       "angle=career",
+      "audience=early-career developers job-hunting",
       "theme=technology",
       "secondary=educational content",
-      "audience=early-career developers job-hunting",
-      "hook=Were a tech community here to help you learn new technologies, land a job, an...",
-      "collab=UGC content creation",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:35:09.989489Z"
   },
   {
     "influencer_id": "UC7TUInmEJ4NmYb-krFz-SuA",
-    "email_subject": "Loved your take on I'm a Senior AI Engineer teaching you how  \u2014 collab with EDXSO?",
-    "email_body": "Hi Zen,\n\nI came across your youtube channel while researching technology and ai creators \u2014 specifically how you break down technology for builders. The sharp-professional tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a developer education collab around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cI'm a Senior AI Engineer teaching you how to use AI while respecting engineering\u201d could feel native to your audience (mid micro, ~49,200 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hi Zen, your technology posts (I'm a Senior AI Engineer tea) fit our developer education collab. Quick collab chat?",
+    "email_subject": "Engineering rigor in AI content: Collaboration with EDXSO",
+    "email_body": "Hi Zen, I\u2019ve been following your channel and appreciate your focus on teaching AI without sacrificing engineering principles. That professional rigor is rare in the current AI space. At EDXSO, we\u2019re building tools for tech educators that prioritize high-fidelity, builder-focused content. Given your background as a Senior AI Engineer, I\u2019d love to discuss a developer education partnership that highlights how our collaboration suite supports the specific workflows of engineers exploring applied AI. Are you open to a 15-minute chat to discuss a paid pilot?",
+    "instagram_dm": "Hi Zen, love your focus on engineering-first AI education. Your approach is exactly what we\u2019re looking for at EDXSO. Open to a brief chat about a potential partnership?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai",
-      "audience=engineers exploring applied AI",
-      "hook=I'm a Senior AI Engineer teaching you how to use AI while respecting engineering",
-      "collab=developer education collab",
-      "followers=mid micro",
-      "tone=sharp-professional",
-      "method=local_ai_engine"
+      "Senior AI Engineer title",
+      "respecting engineering/professional rigor theme",
+      "audience of engineers exploring applied AI",
+      "developer education collab",
+      "method=llm_refined",
+      "model=gemini-3.1-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:35:17.833068Z"
   },
   {
     "influencer_id": "UCdMz6KKEDW_1Qqas-ya7S6w",
-    "email_subject": "Not a cold pitch \u2014 specific technology idea for Beyond",
-    "email_body": "Hi Beyond, I came across your youtube channel while researching technology and ai, career creators \u2014 specifically your recent angle on For software engineers ready to level up. The practical-educational tone lands well with engineers exploring applied AI. At EDXSO, we're exploring a developer education collab around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cFor software engineers ready to level up. Learn from CTOs, principal engineers, and tec...\u201d could feel native to your audience (upper micro, ~86,500 followers). Open to a 15-min chat on a paid",
-    "instagram_dm": "Hi Beyond, your technology posts (For software engineers ready) fit our developer education collab. Quick collab chat?",
+    "email_subject": "Patrick, leveling up software engineers with applied AI tools",
+    "email_body": "Hi Patrick, I\u2019ve been following Beyond Coding, especially your deep dives with CTOs and principal engineers on the skills beyond writing raw code. Your practical-educational approach resonates heavily with engineers exploring applied AI. At EDXSO, we\u2019re building AI-powered creator collaboration tools designed specifically for tech educators and builders. We\u2019d love to sponsor a dedicated UGC segment showcasing how your audience can leverage these workflows. Are you open to a brief chat next week? Paid partnerships, of course.",
+    "instagram_dm": "Hey Patrick, huge fan of Beyond Coding. Would love to chat about a paid UGC partnership exploring AI tools for your software engineering audience. Open to a quick call?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,career",
-      "audience=engineers exploring applied AI",
-      "hook=For software engineers ready to level up",
-      "collab=developer education collab",
-      "followers=upper micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "Beyond Coding creator Patrick Akil",
+      "focus on skills beyond coding with CTOs and principal engineers",
+      "practical-educational tone for software engineers exploring applied AI",
+      "method=llm_refined",
+      "model=gemini-3.5-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:35:20.669906Z"
   },
   {
     "influencer_id": "UC-9t8f2vF-Nve2FJUFM7xgQ",
-    "email_subject": "Your growing micro technology viewers + our product walkthrough series",
-    "email_body": "Hi joowee, I came across your youtube channel while researching technology and educational content creators \u2014 specifically how you break down technology for builders. The practical-educational tone lands well with self-taught builders learning by doing. At EDXSO, we're exploring a product walkthrough series around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201chi I'm joey, uci cs grad and software engineer with ~5 years experience, now building m...\u201d could feel native to your audience (growing micro, ~5,580 followers). Open to a 15-min chat on a paid idea?",
-    "instagram_dm": "Hey joowee, self-taught builders learning by doing + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "EDXSO x Joey: AI collab tools for your engineering & business journey",
+    "email_body": "Hi Joey,\n\nAs a UCI CS grad and software engineer building your own business, your practical tech breakdowns hit the sweet spot for builders learning by doing. \n\nAt EDXSO, we build AI-powered creator collaboration tools designed specifically for tech educators and builders. Given your background and educational focus, I'd love to partner on a paid product walkthrough highlighting how you build and collaborate as a creator.\n\nAre you open to exploring a paid sponsorship for your channel?",
+    "instagram_dm": "Hey Joey! Loved your background as an SWE building a business. Would love to partner on a paid product walkthrough for EDXSO\u2019s AI collab tools. Interested?",
     "personalization_signals": [
-      "angle=tutorial",
-      "theme=technology",
-      "secondary=educational content",
-      "audience=self-taught builders learning by doing",
-      "hook=hi I'm joey, uci cs grad and software engineer with ~5 years experience, now ...",
-      "collab=product walkthrough series",
-      "followers=growing micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "UCI CS grad and software engineer background",
+      "Building his own business / educational tech focus",
+      "Targeting self-taught builders",
+      "Product walkthrough series collab",
+      "method=llm_refined",
+      "model=gemini-3.6-flash"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:35:34.198039Z"
   },
   {
     "influencer_id": "UC3nlFLIgjxdxntXCZstAEVA",
-    "email_subject": "Not a cold pitch \u2014 specific technology idea for Anu",
-    "email_body": "Hi Anu,\n\nI came across your youtube channel while researching technology and ai, tutorial creators \u2014 specifically the way you teach technology without fluff. The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a paid sponsorship around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cI make videos on AI tutorials for software engineering, content creation, video editing...\u201d could feel native to your audience (upper micro, ~65,400 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hi Anu, your technology posts (I make videos on AI tutorial) fit our paid sponsorship. Quick collab chat?",
+    "email_subject": "Paid integration: AI workflow tools for your software engineering tutorials",
+    "email_body": "Hi Anu,\n\nGiven your background bridging enterprise engineering (Google, Palantir) and hands-on AI tutorials for builders, your practical channel walkthroughs stand out.\n\nWe built EDXSO to provide AI-powered collaboration tools specifically designed for tech educators and builders. We'd love to sponsor an integration or tutorial highlighting how you leverage AI workflows in content creation and development.\n\nIf you're open to a paid partnership, let me know if I should send the brief over to your management team.\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hi Anu! Love your practical AI tutorials for engineers. We\u2019d love to sponsor an integration around EDXSO's AI collaboration tools\u2014open to seeing a quick brief?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,tutorial",
-      "audience=engineers exploring applied AI",
-      "hook=I make videos on AI tutorials for software engineering, content creation, vid...",
-      "collab=paid sponsorship",
-      "followers=upper micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "enterprise background at Google and Palantir",
+      "AI tutorials for software engineering and content creation",
+      "practical-educational tutorial style",
+      "paid sponsorship inquiry via management",
+      "method=llm_refined",
+      "model=gemini-flash-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:35:41.992932Z"
   },
   {
     "influencer_id": "UC1zw8VN2_vpZyxsLGsAaKSg",
-    "email_subject": "Your upper micro technology viewers + our UGC content creation",
-    "email_body": "Hi Not,\n\nI came across your youtube channel while researching technology and ai, career creators \u2014 specifically your recent angle on Lost.... The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cLost? Overthinking? Done pretending? Welcome to Not Your College (NYC). No bhaiya-didi ...\u201d could feel native to your audience (upper micro, ~89,700 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Not \u2014 loved the ai ml angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "Beyond the syllabus: real AI tools for NYC engineers",
+    "email_body": "Hi Not Your College team,\n\nI\u2019ve been following your stance on cutting through the usual tech fluff to focus on real engineering skills. Your audience of 89.7K subscribers tuning in for career clarity and applied AI is exactly who we built EDXSO for.\n\nWe\u2019re partnering with no-nonsense tech educators on paid UGC content creation showcasing our AI-powered collaboration tools for builders. Given your focus on practical engineering over shortcuts, would you be open to reviewing a custom concept?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Not \u2014 loved your no-nonsense take on applied AI and career prep. Your NYC audience is a great fit for EDXSO. Open to a quick UGC chat?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,career",
-      "audience=engineers exploring applied AI",
-      "hook=Lost...",
-      "collab=UGC content creation",
-      "followers=upper micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "Lost... hook",
+      "practical-educational tone",
+      "engineers exploring applied AI audience",
+      "89,700 YouTube subscribers",
+      "anti-shortcut career ethos",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:35:48.464998Z"
   },
   {
     "influencer_id": "UCKj-Hy8AuOtKNWE5yQ67BVA",
-    "email_subject": "EDXSO \u00d7 Coding: UGC content creation for technology creators",
-    "email_body": "Hi Coding,\n\nI came across your youtube channel while researching technology and educational content creators \u2014 specifically the clarity you bring to technology. The practical-educational tone lands well with technology practitioners and learners.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cIf youre interested in topics related to computer science, software development, or tec...\u201d could feel native to your audience (mid micro, ~16,600 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey Coding, technology practitioners and learners + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Computer science tutorials + EDXSO AI tools for tech creators",
+    "email_body": "Hi Coding Koala,\n\nI\u2019ve been following your weekly YouTube uploads on computer science and software development. The way you break down complex tech concepts for learners stands out.\n\nAt EDXSO, we\u2019ve built AI-powered creator collaboration tools designed specifically for tech educators and builders. We\u2019d love to partner on some paid UGC content creation that showcases how you integrate these tools into your educational workflow.\n\nAre you open to a brief chat this week to review the concept?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey Coding Koala! Love your weekly computer science and software development breakdowns on YouTube. Would you be open to a paid UGC collab with EDXSO?",
     "personalization_signals": [
-      "angle=general_tech",
       "theme=technology",
       "secondary=educational content",
-      "audience=technology practitioners and learners",
-      "hook=If youre interested in topics related to computer science, software developme...",
-      "collab=UGC content creation",
+      "hook=If youre interested in topics related to computer science, software development, or tech",
       "followers=mid micro",
       "tone=practical-educational",
-      "method=local_ai_engine"
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:35:51.203646Z"
   },
   {
     "influencer_id": "UC8opl10LrVIBL_JlcHFKWRg",
-    "email_subject": "Not a cold pitch \u2014 specific technology idea for CareerOneStop",
-    "email_body": "Hi CareerOneStop,\n\nI came across your youtube channel while researching technology and ai, career creators \u2014 specifically how you break down technology for builders. The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a paid sponsorship around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cCareerOneStop.org is a website of comprehensive career resources. You can find free too...\u201d could feel native to your audience (mid micro, ~43,100 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "CareerOneStop \u2014 loved the ai ml angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "CareerOneStop + EDXSO: Practical AI resources for your audience",
+    "email_body": "Hi CareerOneStop team, I\u2019ve been following your work on YouTube and appreciate how you synthesize complex career resources into actionable guides. Given your focus on tech education and supporting diverse professional pathways, I\u2019d love to explore a paid sponsorship with EDXSO. We\u2019re building AI-powered tools designed specifically for tech educators. A UGC-style integration highlighting how these tools simplify career-building workflows would resonate perfectly with the engineers in your audience. Are you open to a brief chat to discuss how we could align this with your upcoming content?",
+    "instagram_dm": "Big fan of your practical approach to tech education. Would you be open to a paid UGC collaboration featuring EDXSO\u2019s AI tools for builders? Let me know!",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,career",
-      "audience=engineers exploring applied AI",
-      "hook=CareerOneStop",
-      "collab=paid sponsorship",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "practical-educational tone",
+      "engineers exploring applied AI",
+      "comprehensive career resources",
+      "tech educators and builders",
+      "method=llm_refined",
+      "model=gemini-3.1-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:35:54.953268Z"
   },
   {
     "influencer_id": "UCf1DIJD9jzFTHpn7uvZTn3A",
-    "email_subject": "Not a cold pitch \u2014 specific technology idea for Shiva",
-    "email_body": "Hi Shiva,\n\nI came across your youtube channel while researching technology and python, ai creators \u2014 specifically your practical technology storytelling. The friendly-explanatory tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cWelcome to Shiva Concept Solution! Hi, Im Shiva Gautam, and I created this channel to h...\u201d could feel native to your audience (mid micro, ~38,700 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Shiva \u2014 loved the ai ml angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "Python and AI workflows for your Shiva Concept Solution audience",
+    "email_body": "Hi Shiva,\n\nI\u2019ve been following your breakdowns on Python, AI, and interview prep on Shiva Concept Solution. Your approach to explaining complex tech concepts fits well with what we\u2019re building at EDXSO.\n\nWe design AI-powered collaboration tools specifically for tech educators and builders. We'd love to partner with you on a paid UGC content creation project highlighting how these tools streamline programming workflows for your viewers.\n\nOpen to a quick 15-minute chat this week?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey Shiva! Really enjoy your Python and AI breakdowns on Shiva Concept Solution. Would love to chat about a paid UGC collaboration with EDXSO. Interested?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=python,ai",
-      "audience=engineers exploring applied AI",
-      "hook=Welcome to Shiva Concept Solution",
-      "collab=UGC content creation",
-      "followers=mid micro",
-      "tone=friendly-explanatory",
-      "method=local_ai_engine"
+      "Shiva Concept Solution",
+      "Python, AI, and interview prep themes",
+      "Mid-micro follower count (~38.7k)",
+      "Friendly-explanatory educational tone",
+      "method=llm_refined",
+      "model=gemini-3.5-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:35:57.739478Z"
   },
   {
     "influencer_id": "UCWSvMcehuyXy2sWFApXB4eA",
-    "email_subject": "Not a cold pitch \u2014 specific technology idea for Tobi",
-    "email_body": "Hi Tobi, I came across your youtube channel while researching technology and educational content creators \u2014 specifically how you break down technology for builders. The practical-educational tone lands well with technology practitioners and learners. At EDXSO, we're exploring a developer education collab around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cweekly videos, newest topics, s tier stack. If you have anything to say feel free to pu...\u201d could feel native to your audience (mid micro, ~16,700 followers). Open to a 15-min chat on a paid idea?",
-    "instagram_dm": "Hey Tobi, technology practitioners and learners + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "EDXSO x Tobi: AI tools for your next stack video?",
+    "email_body": "Hi Tobi,\n\nLove how you break down the newest tech topics and curate S-tier stacks in your weekly YouTube videos for builders and learners.\n\nAt EDXSO, we build AI-powered creator collaboration tools tailored specifically for tech educators. Given your focus on practical tech stack breakdowns, I\u2019d love to partner on a UGC piece showing how you integrate AI collaboration tools into an S-tier creator setup.\n\nWould you be open to a paid UGC collaboration this month?",
+    "instagram_dm": "Hey Tobi! Loved your S-tier stack concept on YouTube. Would you be open to a paid UGC collab featuring EDXSO\u2019s AI tools for tech educators?",
     "personalization_signals": [
-      "angle=general_tech",
-      "theme=technology",
-      "secondary=educational content",
-      "audience=technology practitioners and learners",
-      "hook=weekly videos, newest topics, s tier stack",
-      "collab=developer education collab",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "S-tier stack concept",
+      "weekly tech videos",
+      "audience of tech builders and learners",
+      "UGC content creation",
+      "method=llm_refined",
+      "model=gemini-3.6-flash"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:36:20.128716Z"
   },
   {
     "influencer_id": "UCT7YaGWYmKtcu53NkuB59PQ",
-    "email_subject": "Loved your take on Sponsorships and Integrations please conta \u2014 collab with EDXSO?",
-    "email_body": "Hi Codemify,\n\nI came across your youtube channel while researching technology and python, javascript creators \u2014 specifically your recent angle on Sponsorships and Integrations please contact support@codemify. The practical-educational tone lands well with early-career developers job-hunting.\n\nAt EDXSO, we're exploring a paid sponsorship around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cSponsorships and Integrations please contact support@codemify.com My name is Sergii Khr...\u201d could feel native to your audience (mid micro, ~44,000 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hi Codemify, your technology posts (Sponsorships and Integration) fit our paid sponsorship. Quick collab chat?",
+    "email_subject": "Partnering with Codemify: AI collaboration for tech educators",
+    "email_body": "Hi Sergii,\n\nRunning Codemify while managing engineering teams gives you a grounded perspective on what aspiring developers need when breaking into tech careers. \n\nAt EDXSO, we build AI-powered collaboration tools tailored specifically for tech educators and builders. Given your hands-on focus across Python, JavaScript, and QA training, we\u2019d love to sponsor a dedicated UGC piece highlighting how modern collaboration tools streamline technical education.\n\nWould you be open to discussing a paid sponsorship for your YouTube channel?",
+    "instagram_dm": "Hi Sergii! Love your practical tech career training on YouTube. Would Codemify be open to a paid sponsorship showcasing EDXSO\u2019s collaboration tools for educators?",
     "personalization_signals": [
-      "angle=career",
-      "theme=technology",
-      "secondary=python,javascript",
-      "audience=early-career developers job-hunting",
-      "hook=Sponsorships and Integrations please contact support@codemify",
-      "collab=paid sponsorship",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "name=Sergii Khromchenko",
+      "role=Engineering Manager and Codemify IT school founder",
+      "themes=Python, JavaScript, career transition",
+      "audience=early-career developers and QA learners",
+      "collab=paid UGC sponsorship",
+      "method=llm_refined",
+      "model=gemini-flash-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:36:32.423204Z"
   },
   {
     "influencer_id": "UCI3SUEUrwh-B1fzHuibWrgA",
-    "email_subject": "Your growing micro technology viewers + our product walkthrough series",
-    "email_body": "Hi Gradient, I came across your youtube channel while researching technology and ai, machine learning creators \u2014 specifically how you break down technology for builders. The friendly-explanatory tone lands well with engineers exploring applied AI. At EDXSO, we're exploring a product walkthrough series around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cAI and Machine Learning explained like you're 5 but smarter. If you're tired of dry, bo...\u201d could feel native to your audience (growing micro, ~9,850 followers). Open to a 15-min chat on a paid idea?",
-    "instagram_dm": "Hey Gradient, engineers exploring applied AI + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Ditching the research papers: EDXSO x The Gradient Descent walkthrough?",
+    "email_body": "Hi The Gradient Descent team, I\u2019ve been following your YouTube channel and love your mission to make machine learning feel like 'ELI5, but smarter.' Avoiding dry, complicated research-paper reads is refreshing for your 9,850 subscribers exploring applied AI. At EDXSO, we build AI-powered creator collaboration tools specifically for tech educators. We'd love to partner on a product walkthrough series that breaks down our platform using your exact style of entertaining, byte-sized ML tutorials. Open to a quick, paid chat?",
+    "instagram_dm": "Hey! Huge fan of your ELI5-style ML tutorials on YouTube. We'd love to chat about a paid product walkthrough series with EDXSO. Interested?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,machine learning",
-      "audience=engineers exploring applied AI",
-      "hook=AI and Machine Learning explained like you're 5 but smarter",
-      "collab=product walkthrough series",
-      "followers=growing micro",
-      "tone=friendly-explanatory",
-      "method=local_ai_engine"
+      "AI and Machine Learning explained like you're 5 but smarter",
+      "9,850 subscribers",
+      "machine learning tutorial niche",
+      "engineers exploring applied AI",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:36:39.157201Z"
   },
   {
     "influencer_id": "UCEk7DMfYbJ8rK9G77oOw1tA",
-    "email_subject": "Loved your take on \"Anubhav in Tech\" is where I share my jour \u2014 collab with EDXSO?",
-    "email_body": "Hi Anubhav,\n\nI came across your youtube channel while researching technology and ai, career creators \u2014 specifically the clarity you bring to technology. The sharp-professional tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201c\"Anubhav in Tech\" is where I share my journey, learnings, and thoughts from both inside...\u201d could feel native to your audience (mid micro, ~26,500 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Anubhav \u2014 loved the ai ml angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "Google to EDXSO: AI-powered tools for your tech audience",
+    "email_body": "Hi Anubhav,\n\nI\u2019ve been following \"Anubhav in Tech\" and appreciate how you break down system design and career insights from your time at Google. Your sharp-professional approach really resonates with engineers navigating applied AI.\n\nAt EDXSO, we\u2019re building AI-powered creator collaboration tools designed specifically for tech educators and builders. We'd love to partner with you on a paid UGC concept that highlights these workflows for your audience.\n\nOpen to a quick 15-minute chat to review the idea?",
+    "instagram_dm": "Hey Anubhav \u2014 really appreciate your system design breakdowns and AI insights from Google. Let's chat about a paid UGC partnership with EDXSO?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,career",
-      "audience=engineers exploring applied AI",
-      "hook=\"Anubhav in Tech\" is where I share my journey, learnings, and thoughts from b...",
-      "collab=UGC content creation",
-      "followers=mid micro",
-      "tone=sharp-professional",
-      "method=local_ai_engine"
+      "Google background",
+      "system design focus",
+      "sharp-professional tone",
+      "audience of engineers exploring applied AI",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:36:42.058048Z"
   },
   {
     "influencer_id": "UCYFKQl9VMvtnUHxZ9uFx7qw",
-    "email_subject": "Your mid micro technology viewers + our UGC content creation",
-    "email_body": "Hi Afaque,\n\nI came across your youtube channel while researching technology and python creators \u2014 specifically your practical technology storytelling. The sharp-professional tone lands well with backend and API-focused engineers.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cIm Afaque, Solutions Architect at Databricks. I've cracked offers @ Apple, Uber & Atlas...\u201d could feel native to your audience (mid micro, ~36,400 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hi Afaque, your technology posts (Im Afaque, Solutions Archite) fit our UGC content creation. Quick collab chat?",
+    "email_subject": "EDXSO + your Databricks/Python insights",
+    "email_body": "Hi Afaque, I\u2019ve been following your channel, and your approach to simplifying complex data engineering is rare\u2014your recent deep dives into Advanced Python and Spark are exactly the kind of high-signal content backend engineers look for. At EDXSO, we\u2019re building AI-powered tools for tech educators and want to collaborate on a piece of UGC that mirrors your professional, no-fluff teaching style. Given your experience at Databricks and top-tier firms, would you be open to a 15-minute chat about a paid partnership?",
+    "instagram_dm": "Hi Afaque, love your approach to simplifying complex data engineering. We\u2019re building AI-powered tools for educators at EDXSO and would love to discuss a potential UGC collaboration. Interested?",
     "personalization_signals": [
-      "angle=backend",
-      "theme=technology",
-      "secondary=python",
-      "audience=backend and API-focused engineers",
-      "hook=Im Afaque, Solutions Architect at Databricks",
-      "collab=UGC content creation",
-      "followers=mid micro",
-      "tone=sharp-professional",
-      "method=local_ai_engine"
+      "Databricks Solutions Architect role",
+      "backend/API-focused audience",
+      "advanced Python/Spark content",
+      "sharp-professional tone",
+      "tech education niche",
+      "method=llm_refined",
+      "model=gemini-3.1-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:36:45.183114Z"
   },
   {
     "influencer_id": "UCgkMMcBQkFSEgYlgmaXRPng",
-    "email_subject": "EDXSO \u00d7 Deepak: paid sponsorship for technology creators",
-    "email_body": "Hi Deepak,\n\nI came across your youtube channel while researching technology and javascript, ai creators \u2014 specifically your practical technology storytelling. The sharp-professional tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a paid sponsorship around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cIm learning every day and sharing what I learn to make coding simpler and IT careers cl...\u201d could feel native to your audience (mid micro, ~18,200 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey Deepak, engineers exploring applied AI + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Deepak, simplifying AI and JavaScript workflows for your viewers",
+    "email_body": "Hi Deepak,\n\nI\u2019ve been following your YouTube channel and really appreciate your honest, no-sugarcoating approach to JavaScript, frontend development, and interview prep in India. Making coding simpler for your audience while exploring modern tooling is a great match for what we do at EDXSO.\n\nWe\u2019ve built AI-powered creator collaboration tools specifically for tech educators and builders. We\u2019d love to sponsor a dedicated UGC segment with you to show your community how these tools streamline development workflows. \n\nAre you open to a quick chat on a paid collaboration?",
+    "instagram_dm": "Hey Deepak, huge fan of your practical JavaScript and AI breakdowns. We\u2019d love to chat about a paid UGC sponsorship with EDXSO for your channel. Interested?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=javascript,ai",
+      "theme=javascript",
+      "theme=ai",
+      "hook=Im learning every day and sharing what I learn to make coding simpler and IT careers cl...",
       "audience=engineers exploring applied AI",
-      "hook=Im learning every day and sharing what I learn to make coding simpler and IT ...",
-      "collab=paid sponsorship",
-      "followers=mid micro",
-      "tone=sharp-professional",
-      "method=local_ai_engine"
+      "followers=18200",
+      "method=llm_refined",
+      "model=gemini-3.5-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.311568Z"
+    "generated_at": "2026-10-02T07:36:48.607307Z"
   },
   {
     "influencer_id": "UCXQC_GB5hG6PkzIhSMZ-hWA",
-    "email_subject": "Not a cold pitch \u2014 specific technology idea for Watch",
-    "email_body": "Hi Watch,\n\nI came across your youtube channel while researching technology and tutorial, design creators \u2014 specifically your practical technology storytelling. The practical-educational tone lands well with self-taught builders learning by doing.\n\nAt EDXSO, we're exploring a paid sponsorship around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cWatch and Learn is a site dedicated to producing video and text tutorials intended for ...\u201d could feel native to your audience (mid micro, ~33,200 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey Watch, self-taught builders learning by doing + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Quick paid idea for Watch and Learn\u2019s web dev tutorial audience",
+    "email_body": "Hi Watch and Learn team,\n\nLoved your practical tutorials covering WordPress, Frontend dev, and web design. Your hands-on format really resonates with self-taught builders who learn by doing.\n\nWe\u2019re building EDXSO\u2014AI-powered creator collaboration tools designed specifically for tech educators like you. We\u2019d love to partner on a paid UGC sponsorship showing how tech builders streamline collab workflows.\n\nWould you be open to exploring a paid idea that fits your teaching style?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey! Love your WordPress and web design tutorials for self-taught builders. We\u2019d love to discuss a paid UGC collab around EDXSO\u2019s AI tools for tech educators. Interested?",
     "personalization_signals": [
-      "angle=tutorial",
-      "theme=technology",
-      "secondary=tutorial,design",
-      "audience=self-taught builders learning by doing",
-      "hook=Watch and Learn is a site dedicated to producing video and text tutorials int...",
-      "collab=paid sponsorship",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "WordPress, Frontend development, and web design tutorial focus",
+      "Audience of self-taught builders learning by doing",
+      "Tech educator angle",
+      "Paid sponsorship / UGC collab type",
+      "method=llm_refined",
+      "model=gemini-3.6-flash"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:36:57.006595Z"
   },
   {
     "influencer_id": "UC07G4rT6ZvDv0lokaVHKeQw",
-    "email_subject": "EDXSO \u00d7 theSeniorDev: UGC content creation for technology creators",
-    "email_body": "Hi theSeniorDev,\n\nI came across your youtube channel while researching technology and javascript, ai creators \u2014 specifically the way you teach technology without fluff. The sharp-professional tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cI Help JavaScript Developers Get To Senior: JavaScript Interview Questions Cheat Sheet ...\u201d could feel native to your audience (upper micro, ~58,200 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "theSeniorDev \u2014 loved the ai ml angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "Seniors code differently: EDXSO x theSeniorDev AI collab",
+    "email_body": "Hi theSeniorDev,\n\nI\u2019ve been following your YouTube channel and how you help JavaScript developers level up to senior roles, particularly with your focus on technical gaps and applied AI.\n\nAt EDXSO, we build AI-powered creator collaboration tools designed specifically for tech educators and builders. We'd love to partner with you on a paid UGC content creation concept that speaks directly to engineers exploring applied AI within your community.\n\nAre you open to a brief 15-minute chat to review the idea?",
+    "instagram_dm": "Hey theSeniorDev \u2014 really value your JavaScript focus and AI content on YouTube. Let's chat about a paid EDXSO UGC idea for your audience.",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=javascript,ai",
+      "theme=javascript",
+      "theme=ai",
+      "hook=I Help JavaScript Developers Get To Senior",
       "audience=engineers exploring applied AI",
-      "hook=I Help JavaScript Developers Get To Senior: JavaScript Interview Questions Ch...",
-      "collab=UGC content creation",
-      "followers=upper micro",
-      "tone=sharp-professional",
-      "method=local_ai_engine"
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:37:30.818994Z"
   },
   {
     "influencer_id": "UCfAuMUEixENfYlhUrAs-aKw",
-    "email_subject": "Not a cold pitch \u2014 specific technology idea for DesignWithRehana",
-    "email_body": "Hi DesignWithRehana,\n\nI came across your youtube channel while researching technology and ai, design creators \u2014 specifically your practical technology storytelling. The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a affiliate campaign around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cHey, I'm Rehana, Thanks for checking out my Channel. If you want to learn Web Developme...\u201d could feel native to your audience (mid micro, ~30,400 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "DesignWithRehana \u2014 loved the ai ml angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "Rehana, loved your web dev & design breakdowns",
+    "email_body": "Hi Rehana,\n\nI\u2019ve been following your web development and design breakdowns on YouTube, and your practical-educational approach really stands out for engineers exploring applied AI.\n\nAt EDXSO, we build AI-powered creator collaboration tools designed specifically for tech educators and builders. We\u2019d love to partner with you on an affiliate campaign that showcases how these tools can streamline workflow management for your community of ~30,400 subscribers.\n\nOpen to exploring a quick, paid collaboration concept?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey Rehana! Loved your recent tech tutorials. We\u2019d love to chat about an affiliate collab with EDXSO for your YouTube channel. Open to a quick chat?",
     "personalization_signals": [
-      "angle=ai_ml",
       "theme=technology",
       "secondary=ai,design",
-      "audience=engineers exploring applied AI",
-      "hook=Hey, I'm Rehana, Thanks for checking out my Channel",
-      "collab=affiliate campaign",
       "followers=mid micro",
       "tone=practical-educational",
-      "method=local_ai_engine"
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:37:36.535590Z"
   },
   {
     "influencer_id": "UCPzqyqw2SFjU24g0aN_5CzQ",
-    "email_subject": "Your mid micro technology viewers + our product walkthrough series",
-    "email_body": "Hi Level,\n\nI came across your youtube channel while researching technology and ai, career creators \u2014 specifically how you break down technology for builders. The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a product walkthrough series around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cHi Guys, Himanshu Khosla this side. An enthusiastic lead software developer by professi...\u201d could feel native to your audience (mid micro, ~45,000 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Level \u2014 loved the ai ml angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "Bridging the frontend skill gap with EDXSO + Level Up Frontend",
+    "email_body": "Hi Himanshu,\n\nI\u2019ve been following your work on Level Up Frontend, particularly how you mentor developers and bridge the industry skill gap. As a lead software developer focused on career growth and tech, your practical-educational approach resonates strongly with builders exploring applied AI.\n\nAt EDXSO, we\u2019re building AI-powered creator collaboration tools for tech educators. We'd love to partner on a product walkthrough series tailored to your 45,000 subscribers.\n\nOpen to a quick chat on a paid collaboration?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey Himanshu \u2014 loved your frontend career insights and AI focus on Level Up Frontend. Would you be open to a paid UGC product walkthrough with EDXSO?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,career",
-      "audience=engineers exploring applied AI",
-      "hook=Hi Guys, Himanshu Khosla this side",
-      "collab=product walkthrough series",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "Himanshu Khosla",
+      "Level Up Frontend",
+      "lead software developer",
+      "bridge the industry skill gap",
+      "45,000 subscribers",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:37:40.674141Z"
   },
   {
     "influencer_id": "UC00Ni0CJFFLpaPf3lyHx5NA",
-    "email_subject": "Mohit, quick idea for your technology audience",
-    "email_body": "Hi Mohit, I came across your youtube channel while researching technology and ai, tutorial creators \u2014 specifically your practical technology storytelling. The practical-educational tone lands well with engineers exploring applied AI. At EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cMohit Decodes is my way of teaching coding in a simple and fast way. I share the coding...\u201d could feel native to your audience (mid micro, ~26,300 followers). Open to a 15-min chat on a paid idea? Best, EDXSO",
-    "instagram_dm": "Mohit \u2014 loved the ai ml angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "Optimizing coding tutorials with AI: A collaboration idea for Mohit Decodes",
+    "email_body": "Hi Mohit, I\u2019ve been following your channel and love how you distill complex coding concepts into fast, actionable tutorials. Your ability to bridge the gap for engineers exploring applied AI is exactly what sets your content apart. I\u2019m with EDXSO, where we build AI-powered tools for tech educators. Given your focus on saving learners time, I\u2019d love to sponsor a piece of UGC that showcases how EDXSO simplifies the build process. Are you open to a brief chat about a potential partnership?",
+    "instagram_dm": "Hey Mohit! Big fan of your 'Mohit Decodes' teaching style. Would you be open to a paid UGC collaboration using our AI tools for your upcoming tutorials?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,tutorial",
-      "audience=engineers exploring applied AI",
-      "hook=Mohit Decodes is my way of teaching coding in a simple and fast way",
-      "collab=UGC content creation",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "coding tutorials",
+      "engineers exploring applied AI",
+      "Mohit Decodes brand identity",
+      "AI-powered tools for tech educators",
+      "method=llm_refined",
+      "model=gemini-3.1-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:37:43.870971Z"
   },
   {
     "influencer_id": "UClSv7tWDA4wkCTLhZl1YBlw",
-    "email_subject": "EDXSO \u00d7 Learn: paid sponsorship for technology creators",
-    "email_body": "Hi Learn,\n\nI came across your youtube channel while researching technology and educational content creators \u2014 specifically your practical technology storytelling. The practical-educational tone lands well with self-taught builders learning by doing.\n\nAt EDXSO, we're exploring a paid sponsorship around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cWelcome to Learn Fast Make Things!\u201d could feel native to your audience (mid micro, ~29,000 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hi Learn, your technology posts (Welcome to Learn Fast Make T) fit our paid sponsorship. Quick collab chat?",
+    "email_subject": "Speeding up self-taught tech builds with EDXSO",
+    "email_body": "Hi Learn Fast Make Things,\n\nI\u2019ve been watching how you break down complex tech for self-taught builders learning by doing on your YouTube channel. Your practical-educational approach makes technical concepts stick.\n\nAt EDXSO, we've built AI-powered creator collaboration tools designed specifically for tech educators and builders. We\u2019d love to sponsor a video exploring how these tools accelerate building workflows for your 29,000 subscribers.\n\nOpen to a quick 15-minute chat about a paid partnership?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey! Love how you break down tech for self-taught builders on YouTube. Let\u2019s chat about a paid EDXSO sponsorship for your channel. Interested?",
     "personalization_signals": [
-      "angle=tutorial",
-      "theme=technology",
-      "secondary=educational content",
-      "audience=self-taught builders learning by doing",
-      "hook=Welcome to Learn Fast Make Things",
-      "collab=paid sponsorship",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "self-taught builders learning by doing",
+      "practical-educational tone",
+      "29000 followers",
+      "technology niche",
+      "method=llm_refined",
+      "model=gemini-3.5-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:37:56.894237Z"
   },
   {
     "influencer_id": "UCYitV_YkpsfRaSkDZpaVz_A",
-    "email_subject": "Loved your take on Engineer who worked inside Alibaba , the w \u2014 collab with EDXSO?",
-    "email_body": "Hi Deepanshu,\n\nI came across your youtube channel while researching technology and ai creators \u2014 specifically the way you teach technology without fluff. The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a product walkthrough series around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cEngineer who worked inside Alibaba , the world's largest commerce machine Now decoding ...\u201d could feel native to your audience (growing micro, ~8,870 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey Deepanshu, engineers exploring applied AI + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "EDXSO x Deepanshu: AI collaboration tools for tech builders",
+    "email_body": "Hi Deepanshu,\n\nYour background as an Alibaba engineer decoding AI and marketing for entrepreneurs makes your channel a great fit for what we're building at EDXSO.\n\nWe create AI-powered creator collaboration tools tailored for tech educators and builders. Given your focus on engineers exploring applied AI, we\u2019d love to partner on a paid product walkthrough series showing how our tools streamline technical collaboration.\n\nWould you be open to exploring a partnership?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey Deepanshu, love how you decode applied AI for tech builders. We'd love to partner on a paid EDXSO product walkthrough. Open to details?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai",
-      "audience=engineers exploring applied AI",
-      "hook=Engineer who worked inside Alibaba , the world's largest commerce machine Now...",
-      "collab=product walkthrough series",
-      "followers=growing micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "Alibaba engineering background",
+      "Decoding AI and marketing focus",
+      "Product walkthrough series format",
+      "Targeting tech educators and builders",
+      "method=llm_refined",
+      "model=gemini-3.6-flash"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:38:16.101097Z"
   },
   {
     "influencer_id": "UCh247h68vszOMA_OWpGEa5g",
-    "email_subject": "Code, quick idea for your technology audience",
-    "email_body": "Hi Code, I came across your youtube channel while researching technology and ai, tutorial creators \u2014 specifically the clarity you bring to technology. The practical-educational tone lands well with engineers exploring applied AI. At EDXSO, we're exploring a paid sponsorship around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cCode with Beto: React Native & Expo Tutorials | Mobile Developer | Claude Code | AI | C...\u201d could feel native to your audience (mid micro, ~45,800 followers). Open to a 15-min chat on a paid idea? Best,",
-    "instagram_dm": "Code \u2014 loved the ai ml angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "Beto, testing Claude Code workflows on React Native?",
+    "email_body": "Hi Beto,\n\nI\u2019ve been following your React Native & Expo tutorials on YouTube, especially your recent focus on Claude Code and AI workflows. Your practical, developer-first approach is spot-on for engineers exploring applied AI.\n\nAt EDXSO, we build AI-powered collaboration tools tailored for tech educators and builders. We'd love to partner with you on a sponsored UGC segment showing how you integrate AI into your mobile development stack.\n\nOpen to reviewing a quick brief?\n\nBest,\nPartnerships Team",
+    "instagram_dm": "Hey Beto \u2014 huge fan of your React Native and Claude Code tutorials. Would love to chat about a paid UGC partnership with EDXSO for mobile devs!",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,tutorial",
-      "audience=engineers exploring applied AI",
-      "hook=Code with Beto: React Native & Expo Tutorials | Mobile Developer | Claude Cod...",
-      "collab=paid sponsorship",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "Claude Code & AI workflows",
+      "React Native & Expo tutorials",
+      "practical-educational tone",
+      "engineers exploring applied AI",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:38:32.212384Z"
   },
   {
     "influencer_id": "UC8NDpwTbsFSeP7dkbl4hKeQ",
-    "email_subject": "Loved your take on Welcome to the DevOps Pro channel, where w \u2014 collab with EDXSO?",
-    "email_body": "Hi DevOps, I came across your youtube channel while researching technology and ai, devops creators \u2014 specifically your recent angle on Welcome to the DevOps Pro channel, where we're breaking down complex DevOps c.... The practical-educational tone lands well with engineers exploring applied AI. At EDXSO, we're exploring a affiliate campaign around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cWelcome to the DevOps Pro channel, where we're breaking down complex DevOps concepts an...\u201d could feel native to your audience (mid micro, ~16,100 followers). Open to a",
-    "instagram_dm": "Hi DevOps, your technology posts (Welcome to the DevOps Pro ch) fit our affiliate campaign. Quick collab chat?",
+    "email_subject": "Simplifying Kubernetes and CKA prep with AI-powered tooling",
+    "email_body": "Hi DevOps Pro, I've been following your YouTube channel and love how you use animations to make complex tools like Terraform, Kubernetes, and CKA/CKS prep accessible. At EDXSO, we built AI-powered creator collaboration tools designed specifically for tech educators and builders. We are launching an affiliate campaign that aligns well with your practical-educational approach and your audience of engineers exploring applied AI. Would you be open to chatting about a potential partnership?",
+    "instagram_dm": "Hey DevOps Pro! Big fan of your animated Kubernetes and CKA prep videos. We'd love to chat about an affiliate campaign for EDXSO's AI tools. Up for a quick chat?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,devops",
-      "audience=engineers exploring applied AI",
-      "hook=Welcome to the DevOps Pro channel, where we're breaking down complex DevOps c...",
-      "collab=affiliate campaign",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "CKA and CKS professional",
+      "Terraform and Kubernetes animations",
+      "practical-educational tone",
+      "affiliate campaign",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:38:37.973370Z"
   },
   {
     "influencer_id": "UCCQf3U-8ZudL86fetgxiepg",
-    "email_subject": "Alta3, quick idea for your technology audience",
-    "email_body": "Hi Alta3,\n\nI came across your youtube channel while researching technology and python, ai creators \u2014 specifically your practical technology storytelling. The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cAlta3 Research has been a leader in DevOps and Cloud training since 1997, helping thous...\u201d could feel native to your audience (mid micro, ~21,600 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey Alta3, engineers exploring applied AI + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "DevOps training + AI lifecycle tools: quick idea for Alta3",
+    "email_body": "Hi Alta3 Research team,\n\nI\u2019ve been following your YouTube channel and noticed how well your Python and AI tutorials resonate with engineers exploring applied AI. Since Alta3 has trained tech professionals since 1997 and is now the Certified Training Partner for ClearML, your audience would appreciate seeing how modern workflows operate.\n\nAt EDXSO, we build AI-powered creator collaboration tools for tech educators and builders. We\u2019d love to partner with you on a paid UGC content creation piece highlighting these tools.\n\nOpen to a quick 15-minute chat?",
+    "instagram_dm": "Hey Alta3! Huge fan of your Python and AI training. Your DevOps and Cloud expertise makes you a great fit for a paid EDXSO UGC collab. Interested?",
     "personalization_signals": [
       "angle=ai_ml",
       "theme=technology",
@@ -445,177 +378,165 @@
       "collab=UGC content creation",
       "followers=mid micro",
       "tone=practical-educational",
-      "method=local_ai_engine"
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:38:41.234272Z"
   },
   {
     "influencer_id": "UC7EVSn5inapL20oPSwAwEUg",
-    "email_subject": "BekBrace, quick idea for your technology audience",
-    "email_body": "Hi BekBrace,\n\nI came across your youtube channel while researching technology and educational content creators \u2014 specifically your recent angle on Hey, World.... The practical-educational tone lands well with technology practitioners and learners.\n\nAt EDXSO, we're exploring a paid sponsorship around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cHey, World! I teach Programming.\u201d could feel native to your audience (mid micro, ~45,900 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "BekBrace \u2014 loved the general tech angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "EDXSO + BekBrace: Elevating your programming tutorials with AI",
+    "email_body": "Hi BekBrace, I\u2019ve been following your channel and love how you bridge the gap for learners with your \u201cHey, World!\u201d approach to programming. At EDXSO, we build AI-powered tools designed specifically for tech educators to streamline collaboration. Given your focus on practical, educational content, I\u2019d love to explore a paid sponsorship where we showcase how our tools can simplify the build process for your viewers. Would you be open to a 15-minute chat to discuss a potential UGC concept?",
+    "instagram_dm": "Hey BekBrace! Big fan of your programming tutorials. I\u2019m with EDXSO and think our AI tools for tech educators would resonate with your audience. Interested in a collab?",
     "personalization_signals": [
-      "angle=general_tech",
-      "theme=technology",
-      "secondary=educational content",
-      "audience=technology practitioners and learners",
-      "hook=Hey, World...",
-      "collab=paid sponsorship",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "Hey, World! hook",
+      "programming niche focus",
+      "practical-educational tone",
+      "tech educator audience",
+      "method=llm_refined",
+      "model=gemini-3.1-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:38:51.385548Z"
   },
   {
     "influencer_id": "UC-77P2ONqHrW7h5r6MAqgSQ",
-    "email_subject": "Loved your take on Udemy Instructor | Instructor at Udemy | D \u2014 collab with EDXSO?",
-    "email_body": "Hi Vipin,\n\nI came across your youtube channel while researching technology and python, ai creators \u2014 specifically the clarity you bring to technology. The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cUdemy Instructor | Instructor at Udemy | Dr Vipin Classes Programming Mobile Developmen...\u201d could feel native to your audience (growing micro, ~5,980 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey Vipin, engineers exploring applied AI + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Python & AI tutorials on Dr Vipin Classes + EDXSO",
+    "email_body": "Hi Vipin,\n\nI\u2019ve been following your tutorials on Dr Vipin Classes, especially how you break down Python and real-world projects for your audience.\n\nAs a fellow Udemy instructor, you know the friction of scaling educational content. At EDXSO, we\u2019re building AI-powered creator collaboration tools designed specifically for tech educators and builders. We'd love to partner with you on a paid UGC content creation campaign showcasing how these tools streamline building modern tech.\n\nOpen to a quick chat this week?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey Vipin! Love the practical Python and AI focus on Dr Vipin Classes. We'd love to partner on a paid UGC video with EDXSO. Interested?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=python,ai",
-      "audience=engineers exploring applied AI",
-      "hook=Udemy Instructor | Instructor at Udemy | Dr Vipin Classes Programming Mobile ...",
-      "collab=UGC content creation",
-      "followers=growing micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "Python & AI tutorials",
+      "Udemy instructor background",
+      "Practical-educational tone",
+      "Dr Vipin Classes channel",
+      "method=llm_refined",
+      "model=gemini-3.5-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:38:54.908031Z"
   },
   {
     "influencer_id": "UCEO7KQgRI6K6XsyTJlF79nw",
-    "email_subject": "Kailash, quick idea for your technology audience",
-    "email_body": "Hi Kailash,\n\nI came across your youtube channel while researching technology and educational content creators \u2014 specifically the clarity you bring to technology. The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a developer education collab around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cI pride myself on being a resourceful technology and computer science education teacher...\u201d could feel native to your audience (growing micro, ~13,400 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hi Kailash, your technology posts (I pride myself on being a re) fit our developer education collab. Quick collab chat?",
+    "email_subject": "Resourceful CS education + AI tools for Kailash Joshi Tutorials",
+    "email_body": "Hi Kailash,\n\nI\u2019ve been following your channel and love your commitment to making computer science and modern programming languages accessible to every student in a friendly, practical way.\n\nAt EDXSO, we build AI-powered collaboration tools tailored for tech educators and builders. Given your resourceful teaching background, we\u2019d love to partner on a UGC video showing how you streamline content creation for your audience.\n\nWould you be open to a paid collaboration this month?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hi Kailash! Loved your resourceful approach to teaching modern programming languages. Open to a paid UGC collab with EDXSO around AI tools for tech educators?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=educational content",
-      "audience=engineers exploring applied AI",
-      "hook=I pride myself on being a resourceful technology and computer science educati...",
-      "collab=developer education collab",
-      "followers=growing micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "Computer science education focus",
+      "Modern programming languages content",
+      "Resourceful and friendly teaching style",
+      "YouTube channel for CS students",
+      "Developer education UGC collab",
+      "method=llm_refined",
+      "model=gemini-3.6-flash"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:39:08.781945Z"
   },
   {
     "influencer_id": "UChH3vLF7j8PlgSTtOB9adJA",
-    "email_subject": "Loved your take on Welcome to Hackers Arsenal \u2014 collab with EDXSO?",
-    "email_body": "Hi HackersArsenal,\n\nI came across your youtube channel while researching technology and ai creators \u2014 specifically your practical technology storytelling. The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a paid sponsorship around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cWelcome to Hackers Arsenal. I hope you enjoy the content and learn something new with e...\u201d could feel native to your audience (upper micro, ~68,300 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "HackersArsenal \u2014 loved the ai ml angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "Coding applied AI for HackersArsenal's audience",
+    "email_body": "Hi HackersArsenal,\n\nI\u2019ve been following your YouTube channel and the practical-educational approach you take with technology and AI content. For your 68.3K subscribers exploring applied AI, finding the right building tools can be tough.\n\nAt EDXSO, we built AI-powered creator collaboration tools specifically for tech educators and builders. We\u2019re looking to partner with upper-micro creators on a paid sponsorship featuring native UGC. Given your focus on learning something new with every video, I'd love to share a brief concept.\n\nOpen to a quick chat?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey HackersArsenal \u2014 love the practical AI focus on your YouTube channel. Would you be open to a paid UGC sponsorship with EDXSO?",
     "personalization_signals": [
       "angle=ai_ml",
       "theme=technology",
       "secondary=ai",
       "audience=engineers exploring applied AI",
-      "hook=Welcome to Hackers Arsenal",
       "collab=paid sponsorship",
       "followers=upper micro",
       "tone=practical-educational",
-      "method=local_ai_engine"
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:39:53.001622Z"
   },
   {
     "influencer_id": "UCciB0llbeGYFZTnP4N5whwA",
-    "email_subject": "Not a cold pitch \u2014 specific technology idea for Tech",
-    "email_body": "Hi Tech,\n\nI came across your youtube channel while researching technology and security creators \u2014 specifically the way you teach technology without fluff. The practical-educational tone lands well with security-aware developers.\n\nAt EDXSO, we're exploring a paid sponsorship around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cEverything Tech and Cyber Security!\u201d could feel native to your audience (upper micro, ~91,200 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hi Tech, your technology posts (Everything Tech and Cyber Se) fit our paid sponsorship. Quick collab chat?",
+    "email_subject": "EDXSO: AI Tools for Your Security-Focused Audience \u2013 Jono",
+    "email_body": "Hi Jono,\n\nYour YouTube channel, 'Tech with Jono,' stands out for its practical-educational approach, especially in demystifying security for developers. We're consistently impressed by how you cover 'Everything Tech and Cyber Security!' without fluff.\n\nEDXSO offers AI-powered collaboration tools for tech educators. We see a strong fit for a paid sponsorship, exploring how our tools can enhance your unique content flow for your security-aware audience (~91,200 subscribers).\n\nWould you be open to a brief 15-min chat about a concept?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey Jono! Love your 'Everything Tech and Cyber Security!' content on YouTube. EDXSO has AI tools we think your audience would value. Quick chat about a paid collab?",
     "personalization_signals": [
+      "name=Tech with Jono",
+      "platform=youtube",
+      "followers=91200",
+      "niche=technology",
+      "themes=technology, security",
+      "about/notes=Everything Tech and Cyber Security!",
       "angle=security",
-      "theme=technology",
-      "secondary=security",
       "audience=security-aware developers",
       "hook=Everything Tech and Cyber Security",
       "collab=paid sponsorship",
-      "followers=upper micro",
       "tone=practical-educational",
-      "method=local_ai_engine"
+      "value proposition=AI-powered creator collaboration tools for tech educators and builders",
+      "method=llm_refined",
+      "model=gemini-2.5-flash"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:40:07.087022Z"
   },
   {
     "influencer_id": "UC1AQrBPOKXW5wBhVA5RwVPA",
-    "email_subject": "Your mid micro technology viewers + our affiliate",
-    "email_body": "Hi Ismail,\n\nI came across your youtube channel while researching technology and security creators \u2014 specifically your recent angle on Exploring cybersecurity, ethical hacking, and the digital defense world. The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a affiliate campaign around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cExploring cybersecurity, ethical hacking, and the digital defense world.\u201d could feel native to your audience (mid micro, ~19,500 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey Ismail, engineers exploring applied AI + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "AI tools for your digital defense workflows, Ismail?",
+    "email_body": "Hi Ismail,\n\nI\u2019ve been following your YouTube channel and really appreciate your practical-educational approach to ethical hacking and the digital defense world. Since your audience consists of engineers exploring applied AI and security, I thought of EDXSO.\n\nWe build AI-powered creator collaboration tools designed specifically for tech educators and builders. We're launching an affiliate campaign that I think would fit seamlessly into your tech stack content.\n\nOpen to exploring a quick partnership?",
+    "instagram_dm": "Hey Ismail, loved your recent focus on the digital defense world. Your tech audience would love EDXSO's AI tools for builders. Open to a quick chat?",
     "personalization_signals": [
-      "angle=ai_ml",
       "theme=technology",
       "secondary=security",
-      "audience=engineers exploring applied AI",
       "hook=Exploring cybersecurity, ethical hacking, and the digital defense world",
-      "collab=affiliate campaign",
-      "followers=mid micro",
       "tone=practical-educational",
-      "method=local_ai_engine"
+      "collab=affiliate campaign",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:40:10.437549Z"
   },
   {
     "influencer_id": "UCsmxzYUpDZxpvwpO7L7YwcQ",
-    "email_subject": "KnowledgeCatch, quick idea for your technology audience",
-    "email_body": "Hi KnowledgeCatch, I came across your youtube channel while researching technology and security creators \u2014 specifically your recent angle on Welcome to KnowledgeCatch, the premier e-learning platform for staying up to .... The practical-educational tone lands well with self-taught builders learning by doing. At EDXSO, we're exploring a product walkthrough series around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cWelcome to KnowledgeCatch, the premier e-learning platform for staying up to date on th...\u201d could feel native to your audience (upper micro, ~79,400 followers). Open to a",
-    "instagram_dm": "KnowledgeCatch \u2014 loved the tutorial angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "EDXSO x KnowledgeCatch: Scaling your tech tutorials with AI",
+    "email_body": "Hi KnowledgeCatch team, I\u2019ve been following how you break down complex security trends for self-taught builders. Your practical, hands-on approach to e-learning resonates with the exact audience we\u2019re building for at EDXSO. We\u2019re currently developing AI-powered collaboration tools designed specifically for tech educators to streamline content creation. I\u2019d love to sponsor a video walkthrough where you showcase how these tools can accelerate the production of your technical tutorials. Would you be open to discussing a collaboration that highlights your expertise in the builder space?",
+    "instagram_dm": "Love the practical depth of your security tutorials. We\u2019re building EDXSO for creators like you\u2014would you be open to a collaboration on a product walkthrough series?",
     "personalization_signals": [
-      "angle=tutorial",
-      "theme=technology",
-      "secondary=security",
-      "audience=self-taught builders learning by doing",
-      "hook=Welcome to KnowledgeCatch, the premier e-learning platform for staying up to ...",
-      "collab=product walkthrough series",
-      "followers=upper micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "practical-educational tone",
+      "self-taught builders audience",
+      "tutorial angle",
+      "security niche",
+      "method=llm_refined",
+      "model=gemini-3.1-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:40:14.016924Z"
   },
   {
     "influencer_id": "UC6kV02-W8iXWgnCwkBAPk6Q",
-    "email_subject": "SleepyCatHey, quick idea for your technology audience",
-    "email_body": "Hi SleepyCatHey, I came across your youtube channel while researching technology and ai, tutorial creators \u2014 specifically the clarity you bring to technology. The practical-educational tone lands well with engineers exploring applied AI. At EDXSO, we're exploring a developer education collab around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cJust a cat pretending to be a Linux user on Windows I make tech videos, mess around wit...\u201d could feel native to your audience (upper micro, ~53,800 followers). Open to a 15-min chat on a paid idea?",
-    "instagram_dm": "Hey SleepyCatHey, engineers exploring applied AI + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Linux on Windows, TTS experiments, and EDXSO",
+    "email_body": "Hi SleepyCatHey,\n\nI\u2019ve been following your tech experiments on YouTube, especially how you test random apps and break down tutorials with that signature orange cat energy (and TTS setup!). Your practical, no-nonsense take on technology is a great match for our audience of engineers exploring applied AI.\n\nAt EDXSO, we build AI-powered creator collaboration tools for tech builders. We'd love to partner with you on a paid developer education UGC piece exploring our tools. Open to a quick chat?",
+    "instagram_dm": "Hey SleepyCatHey! Loved your recent tech tutorials. We\u2019re working on AI creator tools at EDXSO and think a paid collab fits your channel. Interested?",
     "personalization_signals": [
-      "angle=ai_ml",
       "theme=technology",
       "secondary=ai,tutorial",
-      "audience=engineers exploring applied AI",
-      "hook=Just a cat pretending to be a Linux user on Windows I make tech videos, mess ...",
-      "collab=developer education collab",
-      "followers=upper micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "hook=Just a cat pretending to be a Linux user on Windows I make tech videos",
+      "followers=53800",
+      "platform=youtube",
+      "method=llm_refined",
+      "model=gemini-3.5-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.312590Z"
+    "generated_at": "2026-10-02T07:40:17.174402Z"
   },
   {
     "influencer_id": "UCNW7HDseZb6N3nKUEP6uLag",
-    "email_subject": "EDXSO \u00d7 Scrimba: UGC content creation for technology creators",
-    "email_body": "Hi Scrimba,\n\nI came across your youtube channel while researching technology and educational content creators \u2014 specifically the clarity you bring to technology. The practical-educational tone lands well with frontend and fullstack builders.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cWhether you're just getting into tech or levelling up your coding skills, we're here to...\u201d could feel native to your audience (upper micro, ~63,300 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Scrimba \u2014 loved the frontend angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "EDXSO for Scrimba: AI collab tools for frontend educators",
+    "email_body": "Hi Scrimba,\n\nLoved your focus on helping frontend and fullstack builders level up their coding skills on YouTube.\n\nWe\u2019re building EDXSO\u2014AI-powered creator collaboration tools designed specifically for tech educators and builders. Given your practical-educational content, we\u2019d love to partner on a paid UGC concept exploring how our tools streamline tech education and collaborative projects.\n\nAre you open to reviewing a short brief or having a quick chat this week?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey Scrimba! Love how you help frontend builders level up their skills. EDXSO makes AI collab tools for tech educators\u2014open to a paid UGC concept?",
     "personalization_signals": [
       "angle=frontend",
-      "theme=technology",
-      "secondary=educational content",
       "audience=frontend and fullstack builders",
-      "hook=Whether you're just getting into tech or levelling up your coding skills, we'...",
-      "collab=UGC content creation",
-      "followers=upper micro",
+      "hook=levelling up your coding skills",
       "tone=practical-educational",
-      "method=local_ai_engine"
+      "method=llm_refined",
+      "model=gemini-3.6-flash"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:40:27.253884Z"
   },
   {
     "influencer_id": "UCAys-Lg76QcRNGc0dOr_bXA",
-    "email_subject": "Loved your take on I created this channel to share my passion \u2014 collab with EDXSO?",
-    "email_body": "Hi Code, I came across your youtube channel while researching technology and javascript, ai creators \u2014 specifically your recent angle on I created this channel to share my passion for AI, Google Gemini, and Web Dev.... The practical-educational tone lands well with engineers exploring applied AI. At EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cI created this channel to share my passion for AI, Google Gemini, and Web Development, ...\u201d could feel native to your audience (mid micro,",
-    "instagram_dm": "Code \u2014 loved the ai ml angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "Google Gemini & Angular: EDXSO collab idea for Code with Ahsan",
+    "email_body": "Hi Ahsan, I've been following your YouTube channel and really appreciate your practical-educational approach to teaching Google Gemini, JavaScript, and modern web development. As a fellow tech educator and Google Developer Expert, your focus on making quality tech education accessible resonates with what we're building at EDXSO. We've developed AI-powered creator collaboration tools designed specifically for tech educators and builders. I'd love to discuss a potential UGC content creation partnership tailored to your audience of engineers exploring applied AI. Are you open to a quick chat?",
+    "instagram_dm": "Hey Ahsan! Love your content on Google Gemini and modern web dev. We're building AI tools for tech educators at EDXSO\u2014would you be open to a quick UGC collab chat?",
     "personalization_signals": [
       "angle=ai_ml",
       "theme=technology",
@@ -625,321 +546,285 @@
       "collab=UGC content creation",
       "followers=mid micro",
       "tone=practical-educational",
-      "method=local_ai_engine"
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:40:45.957928Z"
   },
   {
     "influencer_id": "UCh24AuWTKEYnerDW5dCN4PQ",
-    "email_subject": "Your upper micro technology viewers + our UGC content creation",
-    "email_body": "Hi Harshita, I came across your youtube channel while researching technology and ai, career creators \u2014 specifically the clarity you bring to technology. The practical-educational tone lands well with engineers exploring applied AI. At EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cI come from where most people feel stuck. I didnt have elite college tags or easy short...\u201d could feel native to your audience (upper micro, ~57,100 followers). Open to a 15-min chat on a paid idea? Best,",
-    "instagram_dm": "Hey Harshita, engineers exploring applied AI + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "From Goldman Sachs to startups: building AI workflows that cut through the noise",
+    "email_body": "Hi Harshita, I\u2019ve been following your YouTube channel and how you break down tech and career paths without the fluff\u2014especially resonating with engineers exploring applied AI. At EDXSO, we\u2019re building AI-powered collaboration tools specifically for tech educators and builders. Given your background in figuring out complex tech stacks step by step, we\u2019d love to sponsor a short UGC video highlighting how you use modern AI tools in your builder workflow. Are you open to a quick 15-minute chat about a paid concept?",
+    "instagram_dm": "Hey Harshita, loved your take on cutting through the tech noise. We\u2019re working on AI builder tools at EDXSO and have a paid UGC concept in mind. Interested?",
     "personalization_signals": [
-      "angle=ai_ml",
       "theme=technology",
       "secondary=ai,career",
-      "audience=engineers exploring applied AI",
       "hook=I come from where most people feel stuck",
+      "audience=engineers exploring applied AI",
       "collab=UGC content creation",
-      "followers=upper micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:40:52.397728Z"
   },
   {
     "influencer_id": "UCqAL_b-jUOTPjrTSNl2SNaQ",
-    "email_subject": "EDXSO \u00d7 Software: paid sponsorship for technology creators",
-    "email_body": "Hi Software, I came across your youtube channel while researching technology and ai, machine learning creators \u2014 specifically your recent angle on Hello and welcome to my channel. The practical-educational tone lands well with engineers exploring applied AI. At EDXSO, we're exploring a paid sponsorship around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cHello and welcome to my channel! I'm Gus, a Software Developer who loves sharing the le...\u201d could feel native to your audience (upper micro, ~75,000 followers). Open to a 15-min chat on a",
-    "instagram_dm": "Hey Software, engineers exploring applied AI + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Gus, your ML & web dev blend + EDXSO AI tools",
+    "email_body": "Hi Gus, caught your channel while looking at creators breaking down machine learning and web dev. Your practical-educational approach fits right in with engineers exploring applied AI. At EDXSO, we build AI-powered creator collaboration tools designed specifically for tech educators and builders. Given your background at Bosch sharing real-world dev journeys to your 75k subscribers, I\u2019d love to sponsor a short UGC segment showing how you use our tools to streamline your workflow. Open to a quick chat this week?",
+    "instagram_dm": "Hey Gus! Huge fan of your web dev + ML mix at Bosch. Would love to chat about a paid EDXSO UGC collab for your 75k tech audience. Open to",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,machine learning",
-      "audience=engineers exploring applied AI",
-      "hook=Hello and welcome to my channel",
-      "collab=paid sponsorship",
-      "followers=upper micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "Software Engineer at Bosch",
+      "Web Development & Machine Learning background",
+      "75000 followers",
+      "practical-educational tone",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:40:55.674650Z"
   },
   {
     "influencer_id": "UC-NectJyXinXyZtGmovWI3g",
-    "email_subject": "Scortier, quick idea for your technology audience",
-    "email_body": "Hi Scortier,\n\nI came across your youtube channel while researching technology and ai, career creators \u2014 specifically how you break down technology for builders. The sharp-professional tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cHi, Im a software engineer passionate about tech, storytelling and sharing real experie...\u201d could feel native to your audience (mid micro, ~18,300 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey Scortier, engineers exploring applied AI + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "EDXSO + Scortier: Bridging system design and AI workflows",
+    "email_body": "Hi Scortier, I\u2019ve been following your channel for your transparent take on top-tier engineering interviews and system design. Given your focus on the realities of the industry, I think there\u2019s a natural bridge to EDXSO. We\u2019re building AI-powered collaboration tools for tech educators and are looking to partner with engineers who value storytelling over hype. I\u2019d love to sponsor a piece of UGC where you integrate our tools into your workflow. Are you open to a brief chat about a potential partnership?",
+    "instagram_dm": "Hey Scortier, big fan of your system design breakdowns. We\u2019re building AI tools for tech educators at EDXSO and would love to discuss a paid UGC collaboration. Interested?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,career",
-      "audience=engineers exploring applied AI",
-      "hook=Hi, Im a software engineer passionate about tech, storytelling and sharing re...",
-      "collab=UGC content creation",
-      "followers=mid micro",
-      "tone=sharp-professional",
-      "method=local_ai_engine"
+      "system design expertise",
+      "software engineering background",
+      "storytelling-focused content",
+      "professional industry transparency",
+      "method=llm_refined",
+      "model=gemini-3.1-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:40:59.091316Z"
   },
   {
     "influencer_id": "UCo-yQhAKie0WCV7-E-z9Mog",
-    "email_subject": "Codist, quick idea for your technology audience",
-    "email_body": "Hi Codist,\n\nI came across your youtube channel while researching technology and ai, machine learning creators \u2014 specifically your practical technology storytelling. The sharp-professional tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cComputer Science, Artificial Intelligence, Machine Learning, Data Science, Web Developm...\u201d could feel native to your audience (upper micro, ~59,600 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hi Codist, your technology posts (Computer Science, Artificial) fit our UGC content creation. Quick collab chat?",
+    "email_subject": "Streamlining ML & system design workflows with EDXSO",
+    "email_body": "Hi Codist,\n\nI\u2019ve been following your easy-to-digest breakdowns on Machine Learning, AI, and DevOps on YouTube. Your approach to explaining complex system design is spot-on for engineers actively building in the space.\n\nAt EDXSO, we've built AI-powered collaboration tools tailored for tech educators and builders. We\u2019d love to sponsor a UGC content piece highlighting how these tools can streamline workflow management for your audience.\n\nOpen to a quick chat on a paid partnership?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey Codist! Love your AI and machine learning breakdowns on YouTube. We'd love to collaborate on a sponsored UGC piece for EDXSO. Open to a quick chat?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,machine learning",
-      "audience=engineers exploring applied AI",
-      "hook=Computer Science, Artificial Intelligence, Machine Learning, Data Science, We...",
-      "collab=UGC content creation",
-      "followers=upper micro",
-      "tone=sharp-professional",
-      "method=local_ai_engine"
+      "Machine Learning",
+      "DevOps",
+      "system design",
+      "YouTube",
+      "method=llm_refined",
+      "model=gemini-3.5-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:41:02.455305Z"
   },
   {
     "influencer_id": "UCLB8iajuHf8g_lipb5Wycow",
-    "email_subject": "Anthony, quick idea for your technology audience",
-    "email_body": "Hi Anthony, I came across your youtube channel while researching technology and career creators \u2014 specifically your recent angle on Check out technical interviewing and career tips from Anthony D. The sharp-professional tone lands well with early-career developers job-hunting. At EDXSO, we're exploring a developer education collab around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cCheck out technical interviewing and career tips from Anthony D. Mays, software enginee...\u201d could feel native to your audience (mid micro, ~24,700 followers). Open to a 15-min chat on a paid",
-    "instagram_dm": "Hey Anthony, early-career developers job-hunting + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Tooling for your tech interviewing & career content, Anthony?",
+    "email_body": "Hi Anthony,\n\nYour technical interviewing tips and career guidance for early-career developers really stand out, especially with your background as a software engineer and founder at Morgan Latimer.\n\nI'm reaching out from EDXSO. We build AI-powered creator collaboration tools designed specifically for tech educators and builders. Given your work helping developers level up, I'd love to partner on a paid UGC content creation campaign tailored to your workflow.\n\nWould you be open to a quick chat about a potential collaboration?",
+    "instagram_dm": "Hey Anthony! Love your technical interviewing content for early-career devs. Open to a paid UGC collab featuring EDXSO's AI tools for tech educators?",
     "personalization_signals": [
-      "angle=career",
-      "theme=technology",
-      "secondary=career",
-      "audience=early-career developers job-hunting",
-      "hook=Check out technical interviewing and career tips from Anthony D",
-      "collab=developer education collab",
-      "followers=mid micro",
-      "tone=sharp-professional",
-      "method=local_ai_engine"
+      "technical interviewing and career tips",
+      "founder at morganlatimer.com",
+      "early-career developers job-hunting",
+      "method=llm_refined",
+      "model=gemini-3.6-flash"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:41:11.591106Z"
   },
   {
     "influencer_id": "UCuxhTSKtnMJizinblLs9xOA",
-    "email_subject": "Your upper micro technology viewers + our affiliate",
-    "email_body": "Hi pixegami,\n\nI came across your youtube channel while researching technology and tutorial creators \u2014 specifically your practical technology storytelling. The practical-educational tone lands well with self-taught builders learning by doing.\n\nAt EDXSO, we're exploring a affiliate campaign around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cI create tech tutorials for builders No sponsors, no affiliates\u201d could feel native to your audience (upper micro, ~85,100 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey pixegami, self-taught builders learning by doing + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "UGC tutorial project for builders (respecting your no-sponsor policy)",
+    "email_body": "Hi pixegami,\n\nI follow your YouTube channel and noticed your focus on practical tech tutorials for builders, alongside your clear \"no sponsors, no affiliates\" note.\n\nAt EDXSO, we develop AI-powered collaboration tools for tech educators. Instead of an on-channel sponsorship, we\u2019re commissioning paid UGC: practical, step-by-step tutorial assets made for self-taught builders that live directly on our platform.\n\nWould you be open to collaborating on an off-channel tutorial project? Glad to send over our brief and budget details.\n\nBest,\nEDXSO Team",
+    "instagram_dm": "Hey pixegami, love your builder tutorials and respect your no-sponsor policy. We\u2019re hiring creators for off-channel educational UGC at EDXSO\u2014open to reviewing a paid brief?",
     "personalization_signals": [
-      "angle=tutorial",
-      "theme=technology",
-      "secondary=tutorial",
-      "audience=self-taught builders learning by doing",
-      "hook=I create tech tutorials for builders No sponsors, no affiliates",
-      "collab=affiliate campaign",
-      "followers=upper micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "Tech tutorials for builders",
+      "Bio note: 'No sponsors, no affiliates'",
+      "Audience of self-taught builders learning by doing",
+      "Practical-educational tutorial focus",
+      "method=llm_refined",
+      "model=gemini-flash-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:41:28.798395Z"
   },
   {
     "influencer_id": "UCwcXQMYphMbpuw8ok9HQguw",
-    "email_subject": "Code, quick idea for your technology audience",
-    "email_body": "Hi Code,\n\nI came across your youtube channel while researching technology and python creators \u2014 specifically your practical technology storytelling. The practical-educational tone lands well with frontend and fullstack builders.\n\nAt EDXSO, we're exploring a developer education collab around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cFor obvious reasons, I'm Josh... Welcome to Code with Josh! Are you ready to transform ...\u201d could feel native to your audience (upper micro, ~53,700 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Code \u2014 loved the frontend angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "Josh, Quick Idea: EDXSO's AI Tools for Your Python Content?",
+    "email_body": "Hi Josh, Your 'non-boring coding channel' and knack for breaking down complex tech jargon into easily digestible Python content truly stand out. At EDXSO, we develop AI-powered creator collaboration tools designed to help tech educators like you streamline content creation and engagement. Given your practical-educational tone and audience of frontend and fullstack builders, we see a natural fit for a developer education collab. Imagine integrating our tools into your next Python hacks video, perhaps leveraging your signature 'For obvious reasons, I'm Josh...' intro. Would you be open to a brief 15-min chat to explore a",
+    "instagram_dm": "Josh, loved your 'non-boring coding' Python content! EDXSO's AI tools could supercharge your hacks. Open to a quick chat about a UGC collab?",
     "personalization_signals": [
-      "angle=frontend",
-      "theme=technology",
-      "secondary=python",
-      "audience=frontend and fullstack builders",
+      "Name: Josh",
+      "Themes: Python content, Python hacks",
+      "About/notes: non-boring coding channel, breaking down complex tech jargon",
       "hook=For obvious reasons, I'm Josh",
-      "collab=developer education collab",
-      "followers=upper micro",
       "tone=practical-educational",
-      "method=local_ai_engine"
+      "audience=frontend and fullstack builders",
+      "collab=developer education collab",
+      "Brand value proposition: AI-powered creator collaboration tools for tech educators and builders",
+      "Default collab type: UGC content creation",
+      "method=llm_refined",
+      "model=gemini-2.5-flash"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:41:45.078620Z"
   },
   {
     "influencer_id": "UCzrW5QOZjdEMDUukZSeAPGQ",
-    "email_subject": "Hexagon, quick idea for your technology audience",
-    "email_body": "Hi Hexagon,\n\nI came across your youtube channel while researching technology and ai, tutorial creators \u2014 specifically how you break down technology for builders. The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a affiliate campaign around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cWelcome to Hexagon Digital Services a learning-driven technology channel focused on tea...\u201d could feel native to your audience (growing micro, ~8,430 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey Hexagon, engineers exploring applied AI + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Hands-on AI tutorials on Hexagon Digital Services x EDXSO",
+    "email_body": "Hi Hexagon Digital Services team,\n\nI\u2019ve been following your hands-on tutorials on YouTube, especially how you break down complex tech topics into practical, step-by-step lessons for developers and self-learners. Your focus on learning by doing really resonates with our audience of engineers exploring applied AI.\n\nAt EDXSO, we\u2019ve built AI-powered creator collaboration tools specifically for tech educators and builders. We'd love to partner with you on an affiliate campaign tailored for your growing micro community.\n\nAre you open to a brief chat this week?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey Hexagon Digital Services! Love your hands-on AI tutorials on YouTube. Your practical tech style would be a great fit for an EDXSO affiliate collab. Interested?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=ai,tutorial",
-      "audience=engineers exploring applied AI",
-      "hook=Welcome to Hexagon Digital Services a learning-driven technology channel focu...",
-      "collab=affiliate campaign",
-      "followers=growing micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "hands-on tutorials",
+      "learning by doing",
+      "engineers exploring applied AI",
+      "affiliate campaign",
+      "growing micro",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:41:48.530979Z"
   },
   {
     "influencer_id": "UCSZSC4ej44cf4bVeJt5Cumw",
-    "email_subject": "Your growing micro technology viewers + our affiliate",
-    "email_body": "Hi WebDev,\n\nI came across your youtube channel while researching technology and educational content creators \u2014 specifically your practical technology storytelling. The practical-educational tone lands well with self-taught builders learning by doing.\n\nAt EDXSO, we're exploring a affiliate campaign around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cYour portal to web development mastery. Learn to code, conquer challenges, and explore ...\u201d could feel native to your audience (growing micro, ~6,960 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hi WebDev, your technology posts (Your portal to web developme) fit our affiliate campaign. Quick collab chat?",
+    "email_subject": "EDXSO + WebDev Warriors: Scaling the mastery portal",
+    "email_body": "Hi WebDev Warriors team, I\u2019ve been following your channel and appreciate how you\u2019ve turned complex web development into a high-utility portal for self-taught builders. Your focus on conquering challenges really resonates with our community at EDXSO. We\u2019ve built AI-powered collaboration tools designed specifically for tech educators, and I\u2019d love to see how we could integrate them into your upcoming tutorials. We\u2019re currently looking to partner with creators who prioritize practical, actionable content. Are you open to a brief chat about a potential affiliate collaboration?",
+    "instagram_dm": "Hey WebDev Warriors! Love how you help builders master the digital frontier. We\u2019re building AI tools for tech educators and would love to discuss an affiliate collaboration. Interested?",
     "personalization_signals": [
       "angle=tutorial",
-      "theme=technology",
-      "secondary=educational content",
       "audience=self-taught builders learning by doing",
       "hook=Your portal to web development mastery",
       "collab=affiliate campaign",
-      "followers=growing micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "method=llm_refined",
+      "model=gemini-3.1-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:41:52.063898Z"
   },
   {
     "influencer_id": "UC5dPmW7ZTsLyIqd-M4cs8EA",
-    "email_subject": "EDXSO \u00d7 Cristian: UGC content creation for technology creators",
-    "email_body": "Hi Cristian,\n\nI came across your youtube channel while researching technology and javascript creators \u2014 specifically your practical technology storytelling. The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cLearn Web Development by building web interfaces using HTML, CSS, JavaScript, React JS,...\u201d could feel native to your audience (mid micro, ~30,800 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey Cristian, engineers exploring applied AI + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Adding AI tooling to React and Next.js builds?",
+    "email_body": "Hi Cristian,\n\nI\u2019ve been following your YouTube channel and love your hands-on approach to teaching web development\u2014especially how you break down complex interfaces using JavaScript, React, and Next.js.\n\nAt EDXSO, we build AI-powered creator collaboration tools designed specifically for tech educators and builders. We\u2019re currently partnering with mid-micro creators for UGC content creation and think a quick, code-focused workflow demo would resonate with your engineering audience.\n\nAre you open to a brief chat about a paid concept?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey Cristian, love your practical React and Next.js builds on YouTube. We'd love to chat about a paid AI tooling UGC partnership. Interested?",
     "personalization_signals": [
-      "angle=ai_ml",
-      "theme=technology",
-      "secondary=javascript",
-      "audience=engineers exploring applied AI",
-      "hook=Learn Web Development by building web interfaces using HTML, CSS, JavaScript,...",
-      "collab=UGC content creation",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "theme=javascript",
+      "theme=react_next",
+      "followers=30800",
+      "platform=youtube",
+      "niche=technology",
+      "method=llm_refined",
+      "model=gemini-3.5-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:41:55.450088Z"
   },
   {
     "influencer_id": "UCObrjoZZJSjznfCO5Vx9qUQ",
-    "email_subject": "Loved your take on Advance your web development skills with t \u2014 collab with EDXSO?",
-    "email_body": "Hi webdecoded,\n\nI came across your youtube channel while researching technology and tutorial creators \u2014 specifically the way you teach technology without fluff. The practical-educational tone lands well with self-taught builders learning by doing.\n\nAt EDXSO, we're exploring a developer education collab around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cAdvance your web development skills with tutorials on React, Typescript, GraphQL and et...\u201d could feel native to your audience (mid micro, ~45,800 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey webdecoded, self-taught builders learning by doing + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Sponsoring your React & TypeScript tutorial content?",
+    "email_body": "Hi webdecoded,\n\nYour hands-on tutorials covering React, TypeScript, and GraphQL clearly resonate with self-taught builders who prefer learning by doing.\n\nI'm reaching out from EDXSO. We build AI-powered collaboration tools designed specifically for tech educators and builders. We'd love to partner with you on a paid UGC content integration that shows how tech creators can leverage our workflow tools.\n\nWould you be open to exploring a quick paid collaboration?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey webdecoded! Loved your practical React and TypeScript tutorials. Would you be open to a paid UGC collab showcasing EDXSO's AI tools for tech educators?",
     "personalization_signals": [
-      "angle=tutorial",
-      "theme=technology",
-      "secondary=tutorial",
-      "audience=self-taught builders learning by doing",
-      "hook=Advance your web development skills with tutorials on React, Typescript, Grap...",
-      "collab=developer education collab",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "React, TypeScript, and GraphQL tutorials",
+      "Self-taught builders learning by doing",
+      "Tech educator niche",
+      "method=llm_refined",
+      "model=gemini-3.6-flash"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:42:07.996262Z"
   },
   {
     "influencer_id": "UCKZZiXKJ8rU7LkRaTS2CDcA",
-    "email_subject": "EDXSO \u00d7 Frontend: affiliate for technology creators",
-    "email_body": "Hi Frontend,\n\nI came across your youtube channel while researching technology and educational content creators \u2014 specifically the clarity you bring to technology. The practical-educational tone lands well with frontend and fullstack builders.\n\nAt EDXSO, we're exploring a affiliate campaign around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cShare your videos with friends, family and the world\u201d could feel native to your audience (mid micro, ~23,400 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hi Frontend, your technology posts (Share your videos with frien) fit our affiliate campaign. Quick collab chat?",
+    "email_subject": "Frontend Tribe x EDXSO: AI tools for your tech tutorials",
+    "email_body": "Hi Frontend Tribe,\n\nI\u2019ve been following your YouTube channel and the clear, practical-educational approach you bring to technology and educational content. For your audience of frontend and fullstack builders, scaling up tutorial production is always top of mind.\n\nAt EDXSO, we\u2019re building AI-powered creator collaboration tools specifically for tech educators. We'd love to partner with you on an affiliate campaign that aligns with your mission to share knowledge with the world.\n\nOpen to a quick chat about a paid concept?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hi Frontend Tribe! Love the tech tutorials on your YouTube channel. We'd love to chat about an affiliate campaign with EDXSO's AI tools for builders. Open to connecting?",
     "personalization_signals": [
-      "angle=frontend",
-      "theme=technology",
-      "secondary=educational content",
-      "audience=frontend and fullstack builders",
-      "hook=Share your videos with friends, family and the world",
-      "collab=affiliate campaign",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "frontend niche",
+      "youtube platform",
+      "practical-educational tone",
+      "affiliate campaign",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:42:21.923956Z"
   },
   {
     "influencer_id": "UCUTNzbcHrwLItUXBMCS7A8w",
-    "email_subject": "Loved your take on Share your videos with friends, family and \u2014 collab with EDXSO?",
-    "email_body": "Hi stoney,\n\nI came across your youtube channel while researching technology and educational content creators \u2014 specifically your practical technology storytelling. The practical-educational tone lands well with technology practitioners and learners.\n\nAt EDXSO, we're exploring a developer education collab around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cShare your videos with friends, family and the world\u201d could feel native to your audience (upper micro, ~62,000 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey stoney, technology practitioners and learners + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Stoney Codes + EDXSO: scaling tech education workflows",
+    "email_body": "Hi stoney,\n\nI\u2019ve been following your YouTube channel and really appreciate your practical-educational approach to technology. For an audience of technology practitioners and learners, building efficient workflows matters.\n\nAt EDXSO, we've built AI-powered creator collaboration tools specifically for tech educators and builders. We\u2019d love to sponsor a short UGC segment on your channel exploring how these tools streamline content creation. Your focus on sharing educational content feels like a natural alignment.\n\nOpen to a quick chat on a paid partnership?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey stoney, love your educational tech focus on YouTube. We'd love to partner on a paid UGC concept for EDXSO's AI tools. Interested?",
     "personalization_signals": [
-      "angle=general_tech",
-      "theme=technology",
-      "secondary=educational content",
-      "audience=technology practitioners and learners",
-      "hook=Share your videos with friends, family and the world",
-      "collab=developer education collab",
-      "followers=upper micro",
+      "name=stoney codes",
+      "platform=youtube",
+      "followers=62000",
+      "niche=technology",
+      "themes=educational content",
       "tone=practical-educational",
-      "method=local_ai_engine"
+      "audience=technology practitioners and learners",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:42:29.182779Z"
   },
   {
     "influencer_id": "UCRQXXUJQ2neA0CkbF_ZLhPA",
-    "email_subject": "Loved your take on Share your videos with friends, family and \u2014 collab with EDXSO?",
-    "email_body": "Hi Bitflip,\n\nI came across your youtube channel while researching technology and educational content creators \u2014 specifically the way you teach technology without fluff. The practical-educational tone lands well with technology practitioners and learners.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cShare your videos with friends, family and the world\u201d could feel native to your audience (growing micro, ~7,230 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hi Bitflip, your technology posts (Share your videos with frien) fit our UGC content creation. Quick collab chat?",
+    "email_subject": "Bitflip x EDXSO: AI tools for your tech education channel",
+    "email_body": "Hi Bitflip,\n\nI\u2019ve been following your YouTube channel and really appreciate your focus on educational content in the technology space. Teaching complex tech concepts practically resonates strongly with your audience of learners and builders.\n\nAt EDXSO, we built AI-powered creator collaboration tools specifically for tech educators and builders. We\u2019d love to sponsor some UGC content creation with you to showcase how these tools work in action. Your approach to sharing valuable tech education with the world aligns perfectly.\n\nOpen to a quick chat?",
+    "instagram_dm": "Hey Bitflip! Love your tech education videos on YouTube. We'd love to partner on some UGC content for EDXSO's AI creator tools. Up for a chat?",
     "personalization_signals": [
-      "angle=general_tech",
       "theme=technology",
       "secondary=educational content",
-      "audience=technology practitioners and learners",
-      "hook=Share your videos with friends, family and the world",
+      "platform=youtube",
       "collab=UGC content creation",
-      "followers=growing micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "audience=technology practitioners and learners",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:42:46.665596Z"
   },
   {
     "influencer_id": "UColtS35pWaswSV634-n-H3A",
-    "email_subject": "EDXSO \u00d7 Everyday: UGC content creation for technology creators",
-    "email_body": "Hi Everyday,\n\nI came across your youtube channel while researching technology and python, machine learning creators \u2014 specifically the clarity you bring to technology. The friendly-explanatory tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201c\"Everyday Data Science\" is a YouTube channel that offers insightful and informative vid...\u201d could feel native to your audience (mid micro, ~29,100 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hi Everyday, your technology posts (\"Everyday Data Science\" is a) fit our UGC content creation. Quick collab chat?",
+    "email_subject": "EDXSO + Everyday Data Science: Simplifying AI workflows for your community",
+    "email_body": "Hi Everyday, I\u2019ve been following your channel and love how you break down complex Machine Learning and Python concepts into digestible lessons. Your friendly-explanatory approach is exactly what engineers exploring applied AI need right now. I\u2019m with EDXSO, and we\u2019re building AI-powered tools for tech educators. I\u2019d love to sponsor a piece of UGC content that demonstrates how our tools streamline the building process. Given your 29k-strong audience of learners, do you have space for a paid collaboration this quarter? Let's chat.",
+    "instagram_dm": "Big fan of the Everyday Data Science channel! Your breakdown of ML concepts is spot on. We\u2019re working with tech educators at EDXSO and would love to discuss a potential",
     "personalization_signals": [
       "angle=ai_ml",
       "theme=technology",
       "secondary=python,machine learning",
       "audience=engineers exploring applied AI",
-      "hook=\"Everyday Data Science\" is a YouTube channel that offers insightful and infor...",
-      "collab=UGC content creation",
-      "followers=mid micro",
       "tone=friendly-explanatory",
-      "method=local_ai_engine"
+      "followers=29100",
+      "method=llm_refined",
+      "model=gemini-3.1-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:42:49.984777Z"
   },
   {
     "influencer_id": "UChqNJc6T93_uRl2nvmoBm4Q",
-    "email_subject": "Not a cold pitch \u2014 specific technology idea for Codebagel",
-    "email_body": "Hi Codebagel,\n\nI came across your youtube channel while researching technology and career, product creators \u2014 specifically how you break down technology for builders. The practical-educational tone lands well with early-career developers job-hunting.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cSharing my authentic journey and perspectives in tech, productivity, career growth, and...\u201d could feel native to your audience (upper micro, ~83,400 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey Codebagel, early-career developers job-hunting + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Codebagel + EDXSO: AI tools for tech career builders",
+    "email_body": "Hi Codebagel,\n\nI\u2019ve been following your YouTube channel and how you share your authentic journey in tech, productivity, and career growth. That practical-educational tone resonates strongly with early-career developers who are currently job-hunting.\n\nAt EDXSO, we build AI-powered creator collaboration tools for tech educators and builders. We\u2019d love to collaborate on a straightforward UGC piece that fits your style. Would you be open to exploring a paid partnership?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey Codebagel! Love your authentic take on tech careers and productivity. We have a paid UGC concept at EDXSO that fits your audience. Interested?",
     "personalization_signals": [
-      "angle=career",
-      "theme=technology",
-      "secondary=career,product",
-      "audience=early-career developers job-hunting",
-      "hook=Sharing my authentic journey and perspectives in tech, productivity, career g...",
-      "collab=UGC content creation",
-      "followers=upper micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "career growth theme",
+      "authentic journey hook",
+      "practical-educational tone",
+      "early-career developers audience",
+      "YouTube platform",
+      "method=llm_refined",
+      "model=gemini-3.5-flash-lite"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:42:53.574966Z"
   },
   {
     "influencer_id": "UCiWsQBA97JYGntWs99ZrQmw",
-    "email_subject": "Loved your take on Simplifying Tech for Developers | Java | A \u2014 collab with EDXSO?",
-    "email_body": "Hi Code,\n\nI came across your youtube channel while researching technology and career creators \u2014 specifically the clarity you bring to technology. The practical-educational tone lands well with early-career developers job-hunting.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cSimplifying Tech for Developers | Java | AWS | Spring Boot | DSA | Developer Growth Wel...\u201d could feel native to your audience (growing micro, ~10,700 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Code \u2014 loved the career angle. Your audience matches EDXSO. Open to a UGC idea?",
+    "email_subject": "Varsha, your breakdown of Java, AWS, and Spring Boot is super sharp",
+    "email_body": "Hi Varsha,\n\nI\u2019ve been following Code With Ease on YouTube and really appreciate how you make complex topics like DSA and system architecture digestible for early-career developers.\n\nAt EDXSO, we build AI-powered creator collaboration tools designed specifically for tech educators and builders. We'd love to partner with you on a sponsored UGC video that highlights how you streamline your own workflow or content creation process.\n\nAre you open to a quick 15-minute chat to discuss a paid collaboration?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hi Varsha! Love your career and AWS breakdowns on Code With Ease. Would you be open to a paid UGC partnership with EDXSO? Let me know!",
     "personalization_signals": [
-      "angle=career",
-      "theme=technology",
-      "secondary=career",
-      "audience=early-career developers job-hunting",
-      "hook=Simplifying Tech for Developers | Java | AWS | Spring Boot | DSA | Developer ...",
-      "collab=UGC content creation",
-      "followers=growing micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "name=Varsha",
+      "channel=Code With Ease",
+      "topics=Java, AWS, Spring Boot, DSA",
+      "audience=early-career developers",
+      "platform=youtube",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:43:18.071071Z"
   },
   {
     "influencer_id": "UCCKAEO4_rqh1GTMxg9H6_sQ",
-    "email_subject": "Your mid micro technology viewers + our UGC content creation",
-    "email_body": "Hi AlgoMonster,\n\nI came across your youtube channel while researching technology and educational content creators \u2014 specifically the clarity you bring to technology. The practical-educational tone lands well with self-taught builders learning by doing.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cLearn the patterns and solve any problems: http://algo.monster, brought to you by ex-Go...\u201d could feel native to your audience (mid micro, ~46,900 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hey AlgoMonster, self-taught builders learning by doing + your technology style = strong fit for a short paid collab. Interested?",
+    "email_subject": "Pattern recognition for AlgoMonster's self-taught builders",
+    "email_body": "Hi AlgoMonster,\n\nI\u2019ve been following your YouTube channel and how you break down complex coding patterns for self-taught builders who learn by doing. Your focus on practical problem-solving really stands out.\n\nAt EDXSO, we build AI-powered collaboration tools specifically for tech educators and builders. We'd love to partner with you on a paid UGC content creation piece that highlights how your audience tackles system design and coding patterns.\n\nAre you open to a quick 15-minute chat to discuss a custom concept?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hey AlgoMonster! Big fan of your coding patterns content. We'd love to chat about a paid UGC partnership with EDXSO for your self-taught builder audience. Interested?",
     "personalization_signals": [
       "angle=tutorial",
       "theme=technology",
@@ -949,26 +834,25 @@
       "collab=UGC content creation",
       "followers=mid micro",
       "tone=practical-educational",
-      "method=local_ai_engine"
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:43:24.327100Z"
   },
   {
     "influencer_id": "UCCuavXcwK5psq89d0wlDM_w",
-    "email_subject": "Your mid micro technology viewers + our UGC content creation",
-    "email_body": "Hi Cloud,\n\nI came across your youtube channel while researching technology and ai, cloud creators \u2014 specifically your practical technology storytelling. The practical-educational tone lands well with engineers exploring applied AI.\n\nAt EDXSO, we're exploring a UGC content creation around AI-powered creator collaboration tools for tech educators and builders. I think a short concept built around \u201cHi:- My name is Prashant Kumar Shukla and I love visualizations and if you want to lear...\u201d could feel native to your audience (mid micro, ~22,100 followers).\n\nOpen to a 15-min chat on a paid idea?\n\nBest,\nEDXSO Partnerships",
-    "instagram_dm": "Hi Cloud, your technology posts (Hi:- My name is Prashant Kum) fit our UGC content creation. Quick collab chat?",
+    "email_subject": "Prashant, love the visual cloud computing approach on your channel",
+    "email_body": "Hi Prashant,\n\nI\u2019ve been watching your YouTube videos and really appreciate how you make complex cloud computing services fun through visual explanations. Your hands-on demo and visualization style resonates strongly with builders.\n\nAt EDXSO, we\u2019re building AI-powered collaboration tools tailored for tech educators. We'd love to partner with you on UGC content creation that showcases how you design these visual learning breakdowns.\n\nAre you open to a brief chat this week to explore a paid collaboration?\n\nBest,\nEDXSO Partnerships",
+    "instagram_dm": "Hi Prashant! Big fan of your visually explained cloud computing tutorials. We'd love to chat about a paid UGC partnership with EDXSO. Open to connecting?",
     "personalization_signals": [
       "angle=ai_ml",
       "theme=technology",
       "secondary=ai,cloud",
-      "audience=engineers exploring applied AI",
-      "hook=Hi:- My name is Prashant Kumar Shukla and I love visualizations and if you wa...",
-      "collab=UGC content creation",
-      "followers=mid micro",
-      "tone=practical-educational",
-      "method=local_ai_engine"
+      "hook=visualizations for cloud computing",
+      "platform=youtube",
+      "method=llm_refined",
+      "model=gemini-flash-lite-latest"
     ],
-    "generated_at": "2026-10-02T07:25:04.313563Z"
+    "generated_at": "2026-10-02T07:43:30.709374Z"
   }
 ]

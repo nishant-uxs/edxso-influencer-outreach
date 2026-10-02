@@ -58,17 +58,41 @@ def personalize_only(
         help="Optional enriched profiles with about/notes for stronger AI signals",
     ),
     output: Path = typer.Option(Path("examples/sample_run/messages.json")),
+    sleep_ms: int = typer.Option(150, help="Pause between LLM calls to avoid rate limits"),
 ) -> None:
     """Re-run AI personalization (local engine + optional LLM) on a dataset."""
+    import time
+
     settings = get_settings()
     setup_logging(settings.log_level)
     personalizer = build_personalizer(settings)
     profiles = _load_profiles(input_csv, profiles_json if profiles_json.exists() else None)
-    messages = [personalizer.personalize(p) for p in profiles]
+    messages = []
+    for i, profile in enumerate(profiles, start=1):
+        messages.append(personalizer.personalize(profile))
+        if settings.openai_api_key and sleep_ms > 0 and i < len(profiles):
+            time.sleep(sleep_ms / 1000.0)
+        if i % 10 == 0:
+            console.print(f"personalized {i}/{len(profiles)}")
     save_messages_json(output, messages)
     subjects = {m.email_subject for m in messages}
+    methods = {
+        s
+        for m in messages
+        for s in m.personalization_signals
+        if s.startswith("method=")
+    }
     console.print(f"[green]Wrote {len(messages)} AI messages -> {output}[/green]")
     console.print(f"Unique subjects: {len(subjects)}/{len(messages)}")
+    console.print(f"Methods: {', '.join(sorted(methods)) or 'n/a'}")
+    meta = {
+        "count": len(messages),
+        "unique_subjects": len(subjects),
+        "methods": sorted(methods),
+        "model": settings.openai_model if settings.openai_api_key else None,
+        "llm_enabled": bool(settings.openai_api_key),
+    }
+    output.with_suffix(".meta.json").write_text(json.dumps(meta, indent=2), encoding="utf-8")
 
 
 @app.command("version")

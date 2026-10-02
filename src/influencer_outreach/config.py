@@ -43,6 +43,8 @@ class Settings(BaseSettings):
     openai_api_key: str = ""
     openai_base_url: str = "https://api.openai.com/v1"
     openai_model: str = "gpt-4o-mini"
+    # Comma-separated OpenAI-compatible fallbacks (used on 429/404)
+    openai_fallback_models: str = "gemini-2.5-flash-lite,gemini-flash-latest,gemini-2.5-flash"
 
     data_dir: Path = Field(default_factory=lambda: ROOT / "data")
     database_path: Path = Field(default_factory=lambda: ROOT / "data" / "outreach.db")

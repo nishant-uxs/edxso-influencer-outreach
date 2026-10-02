@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8"/>
-<title>CLI Demo — EDXSO Pipeline</title>
+<title>CLI Demo — EDXSO AI Pipeline</title>
 <style>
 body { margin:0; background:#0c0c0c; color:#d7d7d7; font-family: Consolas, "Cascadia Mono", monospace; }
 .wrap { padding: 28px 32px; }
@@ -15,32 +15,24 @@ pre { margin:0; white-space:pre-wrap; line-height:1.45; font-size:13px; }
 </head>
 <body>
 <div class="wrap">
-<h1>PS E:\projects\AI-Job-Agent\edxso-influencer-outreach&gt; influencer-outreach run --niche technology --limit 55</h1>
+<h1>PS&gt; python scripts/batch_llm_personalize.py</h1>
 <pre>
-<span class="c">2026-10-01 21:59:43</span> | INFO | discovery.youtube | No YOUTUBE_API_KEY — using yt-dlp public search
-<span class="c">2026-10-01 22:04:41</span> | INFO | discovery.youtube | Discovered 55 YouTube profiles (55 in micro band 5000-100000)
-<span class="c">2026-10-01 22:04:41</span> | INFO | filtering.brand_fit | Filter complete: 54/55 passed
-<span class="c">2026-10-01 22:04:44</span> | INFO | sending.sender | SIMULATED email -> anusharma@kernelmanagement.com (Anu Sharma)
-<span class="c">2026-10-01 22:04:44</span> | INFO | sending.sender | SIMULATED email -> shiva.gtm@gmail.com (Shiva Gautam)
-<span class="c">2026-10-01 22:04:44</span> | INFO | sending.sender | SIMULATED email -> support@codemify.com (Codemify)
-<span class="c">2026-10-01 22:04:44</span> | INFO | sending.sender | SIMULATED email -> anubhavintech@gmail.com (Anubhav Sethi)
-<span class="c">2026-10-01 22:04:44</span> | INFO | sending.sender | SIMULATED email -> afaque.ahmad@theseniordev.io (Afaque Ahmad)
-<span class="c">2026-10-01 22:04:44</span> | INFO | pipeline.runner | Pipeline finished
+<span class="c">1/54</span> EngX Space                  <span class="g">method=llm_refined</span> model=gemini-flash-lite-latest
+<span class="c">2/54</span> Zen van Riel                <span class="g">method=llm_refined</span> model=gemini-3.1-flash-lite
+<span class="c">3/54</span> Beyond Coding               <span class="g">method=llm_refined</span> model=gemini-3.5-flash-lite
+...
+<span class="c">54/54</span> Cloud Tech Burner          <span class="g">method=llm_refined</span> model=gemini-flash-lite-latest
 
-                <span class="g">EDXSO Outreach Pipeline Summary</span>
-+-------------------------------------------------------------+
-| Metric                   | Value                            |
-|--------------------------+----------------------------------|
-| niche                    | technology                       |
-| discovered               | <span class="y">55</span>                               |
-| passed_filter            | <span class="y">54</span>                               |
-| enriched                 | <span class="y">54</span>                               |
-| messages_generated       | <span class="y">54</span>                               |
-| emails_attempted         | 54                               |
-| emails_sent_or_simulated | <span class="y">15</span>                               |
-| notes                    | discovery_source=youtube         |
-+-------------------------------------------------------------+
-<span class="g">Artifacts written under</span> data/
+{
+  "count": <span class="y">54</span>,
+  "unique_subjects": <span class="y">54</span>,
+  "methods": ["method=llm_refined"],
+  "llm_refined": <span class="y">54</span>,
+  "llm_enabled": true
+}
+
+<span class="g">Sample subject:</span> Helping your early-career devs bridge the gap to professional tech roles
+<span class="g">Artifacts:</span> examples/sample_run/messages.json + messages.meta.json
 </pre>
 </div>
 </body>
