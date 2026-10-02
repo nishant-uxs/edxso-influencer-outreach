@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>EDXSO Outreach Demo</title>
+<style>
+body { font-family: Segoe UI, system-ui, sans-serif; margin: 0; background: #0f1419; color: #e7ecf1; }
+header { padding: 28px 36px; background: linear-gradient(120deg, #102033, #1a3a4a); border-bottom: 1px solid #2a3a45; }
+h1 { margin: 0 0 8px; font-size: 28px; }
+.sub { opacity: .85; }
+.stats { display: flex; gap: 16px; padding: 20px 36px; flex-wrap: wrap; }
+.stat { background: #18222b; padding: 14px 18px; border-radius: 10px; min-width: 120px; }
+.stat b { display: block; font-size: 22px; }
+section { padding: 8px 36px 28px; }
+table { width: 100%; border-collapse: collapse; background: #18222b; border-radius: 10px; overflow: hidden; }
+th, td { padding: 10px 12px; border-bottom: 1px solid #24313c; text-align: left; font-size: 14px; }
+th { background: #1e2b36; color: #9fb3c3; }
+a { color: #6ec1ff; }
+.card { background: #18222b; padding: 16px 18px; border-radius: 10px; margin-bottom: 14px; }
+pre { white-space: pre-wrap; background: #101820; padding: 12px; border-radius: 8px; line-height: 1.45; }
+.subj, .dm, .meta { color: #b7c5d0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>EDXSO Automated Micro-Influencer Outreach</h1>
+  <p class="sub">Working demo snapshot · niche=technology · real YouTube public data · emails never fabricated</p>
+</header>
+<div class="stats">
+  <div class="stat"><b>55</b>discovered</div>
+  <div class="stat"><b>54</b>passed filter</div>
+  <div class="stat"><b>54</b>messages</div>
+  <div class="stat"><b>15</b>simulated sends</div>
+</div>
+<section>
+  <h2>Influencer dataset (sample rows)</h2>
+  <table>
+    <thead><tr><th>Name</th><th>Followers</th><th>Engagement</th><th>Email</th><th>Profile</th></tr></thead>
+    <tbody><tr><td>EngX Space</td><td>22,600</td><td>33.47%</td><td>Not Found</td><td><a href="https://www.youtube.com/channel/UCbaLxxQDqvAB8GWiW9TaM4w">profile</a></td></tr><tr><td>Zen van Riel</td><td>49,200</td><td>57.16%</td><td>Not Found</td><td><a href="https://www.youtube.com/channel/UC7TUInmEJ4NmYb-krFz-SuA">profile</a></td></tr><tr><td>Beyond Coding</td><td>86,500</td><td>2.51%</td><td>Not Found</td><td><a href="https://www.youtube.com/channel/UCdMz6KKEDW_1Qqas-ya7S6w">profile</a></td></tr><tr><td>joowee</td><td>5,580</td><td>50.09%</td><td>Not Found</td><td><a href="https://www.youtube.com/channel/UC-9t8f2vF-Nve2FJUFM7xgQ">profile</a></td></tr><tr><td>Anu Sharma</td><td>65,400</td><td>1.14%</td><td>anusharma@kernelmanagement.com</td><td><a href="https://www.youtube.com/channel/UC3nlFLIgjxdxntXCZstAEVA">profile</a></td></tr><tr><td>Not Your College</td><td>89,700</td><td>30.42%</td><td>Not Found</td><td><a href="https://www.youtube.com/channel/UC1zw8VN2_vpZyxsLGsAaKSg">profile</a></td></tr><tr><td>The Coding Koala</td><td>16,600</td><td>3.09%</td><td>Not Found</td><td><a href="https://www.youtube.com/channel/UCKj-Hy8AuOtKNWE5yQ67BVA">profile</a></td></tr><tr><td>CareerOneStop</td><td>43,100</td><td>1.03%</td><td>Not Found</td><td><a href="https://www.youtube.com/channel/UC8opl10LrVIBL_JlcHFKWRg">profile</a></td></tr><tr><td>Shiva Gautam</td><td>38,700</td><td>3.57%</td><td>shiva.gtm@gmail.com</td><td><a href="https://www.youtube.com/channel/UCf1DIJD9jzFTHpn7uvZTn3A">profile</a></td></tr><tr><td>Tobi Mey</td><td>16,700</td><td>3.73%</td><td>Not Found</td><td><a href="https://www.youtube.com/channel/UCWSvMcehuyXy2sWFApXB4eA">profile</a></td></tr><tr><td>Codemify</td><td>44,000</td><td>65.70%</td><td>support@codemify.com</td><td><a href="https://www.youtube.com/channel/UCT7YaGWYmKtcu53NkuB59PQ">profile</a></td></tr><tr><td>The Gradient Descent</td><td>9,850</td><td>8.39%</td><td>Not Found</td><td><a href="https://www.youtube.com/channel/UCI3SUEUrwh-B1fzHuibWrgA">profile</a></td></tr><tr><td>Anubhav Sethi</td><td>26,500</td><td>12.93%</td><td>anubhavintech@gmail.com</td><td><a href="https://www.youtube.com/channel/UCEk7DMfYbJ8rK9G77oOw1tA">profile</a></td></tr><tr><td>Afaque Ahmad</td><td>36,400</td><td>3.02%</td><td>afaque.ahmad@theseniordev.io</td><td><a href="https://www.youtube.com/channel/UCYFKQl9VMvtnUHxZ9uFx7qw">profile</a></td></tr><tr><td>Deepak Jadiwal</td><td>18,200</td><td>24.22%</td><td>deepakjadiwal.official@gmail.com</td><td><a href="https://www.youtube.com/channel/UCgkMMcBQkFSEgYlgmaXRPng">profile</a></td></tr></tbody>
+  </table>
+  <p class="sub">Full dataset: examples/sample_run/influencers.csv (54 rows)</p>
+</section>
+<section>
+  <h2>Outreach tracker</h2>
+  <table>
+    <thead><tr><th>Influencer</th><th>Email</th><th>Status</th><th>Detail</th></tr></thead>
+    <tbody><tr><td>EngX Space</td><td>Not Found</td><td>skipped</td><td>No valid contact email</td></tr><tr><td>Zen van Riel</td><td>Not Found</td><td>skipped</td><td>No valid contact email</td></tr><tr><td>Beyond Coding</td><td>Not Found</td><td>skipped</td><td>No valid contact email</td></tr><tr><td>joowee</td><td>Not Found</td><td>skipped</td><td>No valid contact email</td></tr><tr><td>Anu Sharma</td><td>anusharma@kernelmanagement.com</td><td>simulated</td><td>Simulated send (SMTP not configured or --simulate)</td></tr><tr><td>Not Your College</td><td>Not Found</td><td>skipped</td><td>No valid contact email</td></tr><tr><td>The Coding Koala</td><td>Not Found</td><td>skipped</td><td>No valid contact email</td></tr><tr><td>CareerOneStop</td><td>Not Found</td><td>skipped</td><td>No valid contact email</td></tr><tr><td>Shiva Gautam</td><td>shiva.gtm@gmail.com</td><td>simulated</td><td>Simulated send (SMTP not configured or --simulate)</td></tr><tr><td>Tobi Mey</td><td>Not Found</td><td>skipped</td><td>No valid contact email</td></tr><tr><td>Codemify</td><td>support@codemify.com</td><td>simulated</td><td>Simulated send (SMTP not configured or --simulate)</td></tr><tr><td>The Gradient Descent</td><td>Not Found</td><td>skipped</td><td>No valid contact email</td></tr></tbody>
+  </table>
+</section>
+<section>
+  <h2>Sample personalized outreach</h2>
+  <div class='card'><h3>Anu Sharma</h3><p class='meta'>anusharma@kernelmanagement.com · 65,400 followers</p><p class='subj'><strong>Subject:</strong> Collab idea for your technology audience — EDXSO</p><pre>Hi Anu,
+
+I&#x27;ve been following your technology content on youtube — especially the way you cover ai, tutorial topics (e.g. “I make videos on AI tutorials for software engineering, content creation, video editing...”). Your audience looks like a strong fit for EDXSO.
+
+We&#x27;re exploring a UGC content creation collaboration around AI-powered creator collaboration tools for tech educators and builders. Open to a quick chat about a paid concept?
+
+Best,
+EDXSO Partnerships</pre><p class='dm'><strong>DM:</strong> Hi Anu, loved your recent technology content — your audience fits our UGC content creation. Open to a quick collab chat?</p></div><div class='card'><h3>Shiva Gautam</h3><p class='meta'>shiva.gtm@gmail.com · 38,700 followers</p><p class='subj'><strong>Subject:</strong> Collab idea for your technology audience — EDXSO</p><pre>Hi Shiva,
+
+I&#x27;ve been following your technology content on youtube — especially the way you cover python, ai topics (e.g. “Welcome to Shiva Concept Solution!
+Hi, I’m Shiva Gautam, and I created this channel to ...”). Your audience looks like a strong fit for EDXSO.
+
+We&#x27;re exploring a UGC content creation collaboration around AI-powered creator collaboration tools for tech educators and builders. Open to a quick chat about a paid concept?
+
+Best,
+EDXSO Partnerships</pre><p class='dm'><strong>DM:</strong> Hi Shiva, loved your recent technology content — your audience fits our UGC content creation. Open to a quick collab chat?</p></div><div class='card'><h3>Codemify</h3><p class='meta'>support@codemify.com · 44,000 followers</p><p class='subj'><strong>Subject:</strong> Collab idea for your technology audience — EDXSO</p><pre>Hi Codemify,
+
+I&#x27;ve been following your technology content on youtube — especially the way you cover python, javascript topics (e.g. “Sponsorships and Integrations please contact support@codemify.com
+
+
+My name is Sergii K...”). Your audience looks like a strong fit for EDXSO.
+
+We&#x27;re exploring a UGC content creation collaboration around AI-powered creator collaboration tools for tech educators and builders. Open to a quick chat about a paid concept?
+
+Best,
+EDXSO Partnerships</pre><p class='dm'><strong>DM:</strong> Hi Codemify, loved your recent technology content — your audience fits our UGC content creation. Open to a quick collab chat?</p></div>
+</section>
+</body>
+</html>

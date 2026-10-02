@@ -5,6 +5,59 @@ enriches public contact signals, personalizes outreach, and tracks every send at
 
 **Never fabricates emails or follower metrics.** Missing emails are stored as `Not Found`.
 
+## Submission pack (Assignment §10)
+
+| Requirement | Link / location |
+|-------------|-----------------|
+| GitHub repository | https://github.com/nishant-uxs/edxso-influencer-outreach |
+| README / documentation | This file + [Architecture diagrams](#architecture) |
+| Working demo / screenshots | [docs/screenshots/](docs/screenshots/) · [docs/demo/](docs/demo/) |
+| Influencer dataset (54 real micro-creators) | [examples/sample_run/influencers.csv](examples/sample_run/influencers.csv) |
+| Filter report | [examples/sample_run/filter_report.csv](examples/sample_run/filter_report.csv) |
+| Sample personalized outreach messages | [examples/sample_run/messages.json](examples/sample_run/messages.json) |
+| Outreach tracker | [examples/sample_run/outreach_tracker.csv](examples/sample_run/outreach_tracker.csv) |
+| Run summary | [examples/sample_run/run_summary.json](examples/sample_run/run_summary.json) |
+| Automation workflow | CLI pipeline `influencer-outreach run` · [Mermaid flows](#architecture) |
+| Setup instructions | [Quick start](#quick-start) · [`.env.example`](.env.example) |
+| APIs / tools used | [APIs & tools](#apis--tools-used) |
+
+**Integrity note:** all follower counts and emails come from public YouTube/profile text. Unavailable emails are explicitly `Not Found` — never guessed.
+
+### Demo screenshots
+
+![Working demo — dataset + pipeline stats](docs/screenshots/01-demo-dataset.png)
+
+![CLI pipeline run summary (55 discovered → 54 passed → 15 simulated)](docs/screenshots/02-cli-pipeline-run.png)
+
+![Sample personalized outreach + tracker statuses](docs/screenshots/03-sample-outreach-messages.png)
+
+![GitHub repository](docs/screenshots/04-github-repo.png)
+
+![Architecture Mermaid on GitHub README](docs/screenshots/05-architecture-mermaid.png)
+
+![Real influencer dataset CSV on GitHub](docs/screenshots/06-influencer-dataset-csv.png)
+
+### Live sample run metrics
+
+From [`examples/sample_run/run_summary.json`](examples/sample_run/run_summary.json):
+
+| Metric | Value |
+|--------|-------|
+| Niche | technology |
+| Discovered | 55 |
+| Passed micro + brand-fit filter | 54 |
+| Messages generated | 54 |
+| Emails simulated (public address found) | 15 |
+| Emails skipped (`Not Found`) | remainder |
+
+Open the static demo page locally after clone:
+
+```bash
+python scripts/build_demo_page.py
+python -m http.server 8765
+# visit http://127.0.0.1:8765/docs/demo/index.html
+```
+
 ## Architecture
 
 ### System overview
@@ -266,6 +319,22 @@ src/influencer_outreach/
   pipeline/        # Orchestration
   cli.py
 ```
+
+## APIs & tools used
+
+| Tool / API | Required? | Role |
+|------------|-----------|------|
+| [yt-dlp](https://github.com/yt-dlp/yt-dlp) | Yes (default discovery) | Public YouTube search + channel metadata |
+| [YouTube Data API v3](https://developers.google.com/youtube/v3) | Optional (`YOUTUBE_API_KEY`) | Higher-quality discovery / channel stats |
+| [httpx](https://www.python-httpx.org/) | Yes | Profile/website HTML fetch for enrichment |
+| [pydantic](https://docs.pydantic.dev/) / pydantic-settings | Yes | Typed models + config |
+| [Typer](https://typer.tiangolo.com/) + [Rich](https://rich.readthedocs.io/) | Yes | CLI + run summary |
+| [pandas](https://pandas.pydata.org/) | Yes | CSV exports |
+| SQLite (stdlib) | Yes | Idempotent outreach tracking |
+| SMTP (`smtplib`) | Optional | Real email send when `SMTP_*` configured |
+| OpenAI-compatible API | Optional (`OPENAI_API_KEY`) | LLM personalization; template fallback otherwise |
+| [tenacity](https://tenacity.readthedocs.io/) | Yes | Retry for flaky network calls |
+| pytest | Dev | Unit tests (`tests/`) |
 
 ## Assignment mapping
 
