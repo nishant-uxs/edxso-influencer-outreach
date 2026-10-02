@@ -4,8 +4,8 @@
     "name": "EngX Space",
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCbaLxxQDqvAB8GWiW9TaM4w",
-    "follower_count": 22600,
-    "engagement_rate": 0.334733,
+    "follower_count": 22700,
+    "engagement_rate": 0.064146,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -13,9 +13,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Were a tech community here to help you learn new technologies, land a job, and join a professional tech and IT network. On our YouTube channel, youll find videos to kickstart your journey in tech!",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "We\u2019re a tech community here to help you learn new technologies, land a job, and join a professional tech and IT network. On our YouTube channel, you\u2019ll find videos to kickstart your journey in tech! \ud83d\ude0a",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -24,7 +33,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC7TUInmEJ4NmYb-krFz-SuA",
     "follower_count": 49200,
-    "engagement_rate": 0.571606,
+    "engagement_rate": 0.271341,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -32,9 +41,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
     "recent_content_notes": "I'm a Senior AI Engineer teaching you how to use AI while respecting engineering",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -43,7 +61,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCdMz6KKEDW_1Qqas-ya7S6w",
     "follower_count": 86500,
-    "engagement_rate": 0.025126,
+    "engagement_rate": 0.228902,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -53,9 +71,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "For software engineers ready to level up. Learn from CTOs, principal engineers, and tech leaders about the skills beyond coding: from technical mastery & AI to product thinking and career growth. Created by Patrick Akil. Powered by Xebia",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "For software engineers ready to level up. Learn from CTOs, principal engineers, and tech leaders about the skills beyond coding: from technical mastery & AI to product thinking and career growth. Created by Patrick Akil. Powered by Xebia\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 5
+      }
     }
   },
   {
@@ -64,7 +91,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC-9t8f2vF-Nve2FJUFM7xgQ",
     "follower_count": 5580,
-    "engagement_rate": 0.500896,
+    "engagement_rate": 0.01917,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -72,9 +99,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "hi I'm joey, uci cs grad and software engineer with ~5 years experience, now building my own business! hoping to inspire others by sharing my experiences hobbies learning languages: japanese (3 yrs) and korean (1 yr) calisthenics game accomplishments challenger in league o legends / TFT legend in hearthstone diamond in SC2 1v1",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "hi I'm joey, uci cs grad and software engineer with ~5 years experience, now building my own business!\nhoping to inspire others by sharing my experiences\n\nhobbies\nlearning languages: japanese (3 yrs) and korean (1 yr)\ncalisthenics\n\ngame accomplishments\nchallenger in league o legends / TFT\nlegend in hearthstone\ndiamond in SC2 1v1\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -82,8 +118,8 @@
     "name": "Anu Sharma",
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC3nlFLIgjxdxntXCZstAEVA",
-    "follower_count": 65400,
-    "engagement_rate": 0.01141,
+    "follower_count": 65500,
+    "engagement_rate": 0.768511,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -92,9 +128,18 @@
     ],
     "contact_email": "anusharma@kernelmanagement.com",
     "website": null,
-    "recent_content_notes": "I make videos on AI tutorials for software engineering, content creation, video editing, businesses and enterprise. I have worked at companies like Palantir, Google, X and Intuit. This channel is a way through which I share that learning with the rest of the world. Let's learn together! For partnership queries: anusharma@kernelmanagement.com Disclaimer: The Views presented in this Video are solely mine. I am not representing any Company or organisation. I am only telling my opinions not talking ",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "I make videos on AI tutorials for software engineering, content creation, video editing, businesses and enterprise. I have worked at companies like Palantir, Google, X and Intuit. This channel is a way through which I share that learning with the rest of the world.  Let's learn together!\n\nFor partnership queries: anusharma@kernelmanagement.com\n\nDisclaimer: The Views presented in this Video are solely mine. I am not representing any Company or organisation. I am only telling my opinions not talki",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -102,8 +147,8 @@
     "name": "Not Your College",
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC1zw8VN2_vpZyxsLGsAaKSg",
-    "follower_count": 89700,
-    "engagement_rate": 0.304192,
+    "follower_count": 89800,
+    "engagement_rate": 0.228007,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -112,9 +157,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Lost? Overthinking? Done pretending? Welcome to Not Your College (NYC). No bhaiya-didi fantasy. No 30-day success lies. No shortcuts. No unnecessary gyaan. We prepare you for things that actually matter beyond the syllabus. On this channel, you'll find: How to start from zero and build real skills Internship & project guidance Career clarity beyond college syllabus Real mindset for engineers who want to win We don't just talk about careers. We talk about everything in between. From academics to ",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Lost? Overthinking? Done pretending?\n\nWelcome to Not Your College (NYC).\nNo bhaiya-didi fantasy. \nNo 30-day success lies. \nNo shortcuts. \nNo unnecessary gyaan.\n\nWe prepare you for things that actually matter \u2014 beyond the syllabus.\n\nOn this channel, you'll find:\n\u2192 How to start from zero and build real skills\n\u2192 Internship & project guidance\n\u2192 Career clarity beyond college syllabus\n\u2192 Real mindset for engineers who want to win\n\nWe don't just talk about careers. We talk about everything in between.\nF",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -122,8 +176,8 @@
     "name": "The Coding Koala",
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCKj-Hy8AuOtKNWE5yQ67BVA",
-    "follower_count": 16600,
-    "engagement_rate": 0.030939,
+    "follower_count": 16700,
+    "engagement_rate": 0.0109,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -131,9 +185,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "If youre interested in topics related to computer science, software development, or tech in general. Feel free to explore. New videos every week, subscribe to not miss any updates",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "If you\u2019re interested in topics related to computer science, software development, or tech in general. Feel free to explore.  \n\ud83d\udcc5 New videos every week, subscribe to not miss any updates \ud83d\udc4d\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -142,7 +205,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC8opl10LrVIBL_JlcHFKWRg",
     "follower_count": 43100,
-    "engagement_rate": 0.010334,
+    "engagement_rate": 0.018182,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -151,9 +214,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "CareerOneStop.org is a website of comprehensive career resources. You can find free tools for job searches, career exploration, and education/training information. We are a one-stop destination for self-guided information, also including resources for people with unique barriers to employment (military veterans, justice-involved individuals, experienced workers - 55+, youth/young adults - ages 14-24, and people with disabilities). A great place to start is to check out our how-to guides. They wi",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "CareerOneStop.org is a website of comprehensive career resources. You can find free tools for job searches, career exploration, and education/training information. We are a one-stop destination for self-guided information, also including resources for people with unique barriers to employment (military veterans, justice-involved individuals, experienced workers - 55+, youth/young adults - ages 14-24, and people with disabilities). \n\nA great place to start is to check out our how-to guides. They ",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -162,7 +234,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCf1DIJD9jzFTHpn7uvZTn3A",
     "follower_count": 38700,
-    "engagement_rate": 0.035711,
+    "engagement_rate": 0.134528,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -171,9 +243,18 @@
     ],
     "contact_email": "shiva.gtm@gmail.com",
     "website": null,
-    "recent_content_notes": "Welcome to Shiva Concept Solution! Hi, Im Shiva Gautam, and I created this channel to help learners master programming concepts, from the basics to advanced topics. Here, youll find a wealth of content covering languages like C#, .NET, Python, and foundational knowledge like Data Structures. I also specialize in Interview Preparation, MERN Stack, and modern technology trends. This channel hosts numerous videos aimed at: - Building awareness about modern technologies - Tackling interview question",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Welcome to Shiva Concept Solution!\nHi, I\u2019m Shiva Gautam, and I created this channel to help learners master programming concepts, from the basics to advanced topics. Here, you\u2019ll find a wealth of content covering languages like  C#, .NET, Python, and foundational knowledge like Data Structures. I also specialize in Interview Preparation, MERN Stack, and modern technology trends.\n\nThis channel hosts numerous videos aimed at:\n- Building awareness about modern technologies\n- Tackling interview ques",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -182,7 +263,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCWSvMcehuyXy2sWFApXB4eA",
     "follower_count": 16700,
-    "engagement_rate": 0.037283,
+    "engagement_rate": 0.219888,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -190,9 +271,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "weekly videos, newest topics, s tier stack. If you have anything to say feel free to put it in the comments, your engagement helps me grow",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "weekly videos, newest topics, s tier stack. If you have anything to say feel free to put it in the comments, your engagement helps me grow \u2728 \n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -201,7 +291,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCT7YaGWYmKtcu53NkuB59PQ",
     "follower_count": 44000,
-    "engagement_rate": 0.657,
+    "engagement_rate": 0.132955,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -211,9 +301,18 @@
     ],
     "contact_email": "support@codemify.com",
     "website": null,
-    "recent_content_notes": "Sponsorships and Integrations please contact support@codemify.com My name is Sergii Khromchenko. I am an Engineering Manager(SDET) in a fast-growing IT company based in Los Angeles. And an entrepreneur - I run the IT school Codemify (ex QALesson) When I was 18 I moved to North Dakota and worked there as a farm boy! One day I realized I want to change my career and move to California. Here are a few quick links to get in touch: 1. If you want to book a Software Quality Assurance Course - sign up ",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Sponsorships and Integrations please contact support@codemify.com\n\n\nMy name is Sergii Khromchenko.\nI am an Engineering  Manager(SDET) in a fast-growing IT company based in Los Angeles. And an entrepreneur - I run the IT school Codemify (ex QALesson)\nWhen I was 18 I moved to North Dakota and worked there as a farm boy! One day I realized I want to change my career and move to California. \n\nHere are a few quick links to get in touch:\n1. If you want to book a Software Quality Assurance Course - sig",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -221,8 +320,8 @@
     "name": "The Gradient Descent",
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCI3SUEUrwh-B1fzHuibWrgA",
-    "follower_count": 9850,
-    "engagement_rate": 0.083886,
+    "follower_count": 9860,
+    "engagement_rate": 0.893712,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -232,9 +331,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "AI and Machine Learning explained like you're 5 but smarter. If you're tired of dry, boring, complicated tutorials that feel like reading a research paper out loud, this channel flips that script. I break down complex AI and Machine Learning topics into simple, entertaining, byte-sized chunks. No PhD required. What I Cover: #machinelearning #ai #deeplearning #neuralnetworks #artificialintelligence #statistics #robotics #aieducation #techinnovation #mlexplained #mlforbeginners #mlalgorithms",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "\ud83e\udde0 AI and Machine Learning explained like you're 5\u2026 but smarter.  \n\nIf you're tired of dry, boring, complicated tutorials that feel like reading a research paper out loud, this channel flips that script.\nI break down complex AI and Machine Learning topics into simple, entertaining, byte-sized chunks.\n\n\ud83c\udf93 No PhD required.\n\n\ud83d\udd0d What I Cover:\n\n#machinelearning #ai #deeplearning #neuralnetworks #artificialintelligence #statistics #robotics #aieducation  #techinnovation  #mlexplained #mlforbeginners #mla",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -242,8 +350,8 @@
     "name": "Anubhav Sethi",
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCEk7DMfYbJ8rK9G77oOw1tA",
-    "follower_count": 26500,
-    "engagement_rate": 0.129288,
+    "follower_count": 26600,
+    "engagement_rate": 0.014189,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -253,9 +361,18 @@
     ],
     "contact_email": "anubhavintech@gmail.com",
     "website": null,
-    "recent_content_notes": "\"Anubhav in Tech\" is where I share my journey, learnings, and thoughts from both inside and outside the realm of tech being currently working at Google. Ive been actively sharing my best system design learnings on this channel. Do check out system design related playlist. Youll discover a mix of: Insights from my career in tech Coding, software, and interview preparation resources Industry traits & private experiences Occasional thoughts beyond tech life Read FAANG System Design Interview Proble",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "\"Anubhav in Tech\" is where I share my journey, learnings, and thoughts from both inside and outside the realm of tech being currently working at Google. \n\nI\u2019ve been actively sharing my best system design learnings on this channel. Do check out system design related playlist. \n\nYou\u2019ll discover a mix of:\n\ud83d\udca1 Insights from my career in tech\n\u26a1 Coding, software, and interview preparation resources\n\ud83c\udf0d Industry traits & private experiences\n\u2728 Occasional thoughts beyond tech life\n\nRead FAANG System Design I",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 7
+      }
     }
   },
   {
@@ -264,7 +381,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCYFKQl9VMvtnUHxZ9uFx7qw",
     "follower_count": 36400,
-    "engagement_rate": 0.030186,
+    "engagement_rate": 0.023283,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -272,9 +389,18 @@
     ],
     "contact_email": "afaque.ahmad@theseniordev.io",
     "website": null,
-    "recent_content_notes": "Im Afaque, Solutions Architect at Databricks. I've cracked offers @ Apple, Uber & Atlassian. Previously, I was a Senior Data Engineer at QB/McKinsey & Urban Company (formerly UrbanClap). This channel was created out of my endeavor for teaching and simplifying complex data engineering concepts and, in doing so, perhaps offer a fresh perspective on how we approach them. Watch out videos on my channel for best-in-class videos on Apache Spark, complex SQL, Advanced Python, and, emerging topics in th",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "I\u2019m Afaque, Solutions Architect at Databricks. I've cracked offers @ Apple, Uber & Atlassian. Previously, I was a Senior Data Engineer at QB/McKinsey & Urban Company (formerly UrbanClap). This channel was created out of my endeavor for teaching and simplifying complex data engineering concepts and, in doing so, perhaps offer a fresh perspective on how we approach them. \n\nWatch out videos on my channel for best-in-class videos on Apache Spark, complex SQL, Advanced Python, and, emerging topics in",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -283,7 +409,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCgkMMcBQkFSEgYlgmaXRPng",
     "follower_count": 18200,
-    "engagement_rate": 0.242198,
+    "engagement_rate": 0.036765,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -293,9 +419,18 @@
     ],
     "contact_email": "deepakjadiwal.official@gmail.com",
     "website": null,
-    "recent_content_notes": "Im learning every day and sharing what I learn to make coding simpler and IT careers clearer. On this channel, youll find content on JavaScript, frontend development, IT career guidance, interview prep, and salary reality in India honest, practical, and no sugarcoating. Joined: March 2019 Instagram: @deepak.jadiwal For Collab/Promotion :- deepakjadiwal.official@gmail.com",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "I\u2019m learning every day and sharing what I learn to make coding simpler and IT careers clearer.\n\nOn this channel, you\u2019ll find content on JavaScript, frontend development, IT career guidance, interview prep, and salary reality in India \u2014 honest, practical, and no sugarcoating.\n\nJoined: March 2019\nInstagram: @deepak.jadiwal\n\nFor Collab/Promotion :- deepakjadiwal.official@gmail.com\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -304,7 +439,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCXQC_GB5hG6PkzIhSMZ-hWA",
     "follower_count": 33200,
-    "engagement_rate": 0.278133,
+    "engagement_rate": 0.214232,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -313,9 +448,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
     "recent_content_notes": "Watch and Learn is a site dedicated to producing video and text tutorials intended for everyone that wants to learn Wordpress, Frontend development, Sass, Compass and web design in general. Hope you enjoy the content, and learn something new.",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -323,8 +467,8 @@
     "name": "theSeniorDev",
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC07G4rT6ZvDv0lokaVHKeQw",
-    "follower_count": 58200,
-    "engagement_rate": 0.026159,
+    "follower_count": 58300,
+    "engagement_rate": 0.314966,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -333,9 +477,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "I Help JavaScript Developers Get To Senior: JavaScript Interview Questions Cheat Sheet - https://link.theseniordev.com/javascript-interview-cheat-sheet-Kaehh9M Get to Senior. Or You Don't Pay - https://link.theseniordev.com/free-training-a5SgwS5 Find Your Technical Gaps - https://link.theseniordev.com/free-technical-assessment-Lc6eaea",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "I Help JavaScript Developers Get To Senior:\n\ud83c\udfaf JavaScript Interview Questions Cheat Sheet - https://link.theseniordev.com/javascript-interview-cheat-sheet-Kaehh9M\n\ud83d\ude80 Get to Senior. Or You Don't Pay - https://link.theseniordev.com/free-training-a5SgwS5\n\ud83e\udd14 Find Your Technical Gaps - https://link.theseniordev.com/free-technical-assessment-Lc6eaea\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -344,7 +497,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCfAuMUEixENfYlhUrAs-aKw",
     "follower_count": 30400,
-    "engagement_rate": 0.425461,
+    "engagement_rate": 0.021123,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -353,9 +506,18 @@
     ],
     "contact_email": "promo@designwithrehana.com",
     "website": null,
-    "recent_content_notes": "Hey, I'm Rehana, Thanks for checking out my Channel. If you want to learn Web Development and Tips and Tricks related to web development, then you are in the right place If you are not from the computer field then don't worry I will guide you to learn Web Development from the basic level to advanced What I'm doing for you I am creating videos for all of you guys so that you will learn a lot. I try my best to deliver great content. You can share your feedback and suggestions with me at promo@desi",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "\ud83d\ude4b\ud83c\udffb\u200d\u2640\ufe0f Hey, I'm Rehana,\n\nThanks for checking out my Channel.  If you want to learn Web Development and Tips and Tricks related to web development, then you are in the right place \ud83d\ude00\n\n\ud83e\udd29 If you are not from the computer field then don't worry I will guide you to learn Web Development from the basic level to advanced \ud83d\ude80\n\nWhat I'm doing for you \ud83d\ude0a\n\u27a1 I am creating videos for all of you guys so that you will learn a lot.\n\n\u27a1 I try my best to deliver great content. You can share your feedback and suggestion",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -364,7 +526,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCPzqyqw2SFjU24g0aN_5CzQ",
     "follower_count": 45000,
-    "engagement_rate": 0.032359,
+    "engagement_rate": 0.468056,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -374,9 +536,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Hi Guys, Himanshu Khosla this side. An enthusiastic lead software developer by profession and YouTuber (cum mentor) turned by passion. For the past 5 years, I have been actively working as a Frontend Developer with several tech companies and have trained a few Developers along the way. My vision is to bridge the skill gap between industry and active developers by guiding them and helping them make an upward career trajectory in their careers. I want to teach everyone how they can upskill themsel",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Hi Guys, Himanshu Khosla this side. An enthusiastic lead software developer by profession and YouTuber (cum mentor) turned by passion. For the past 5 years, I have been actively working as a Frontend Developer with several tech companies and have trained a few Developers along the way. \n\nMy vision is to bridge the skill gap between industry and active developers by guiding them and helping them make an upward career trajectory in their careers. I want to teach everyone how they can upskill thems",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -385,7 +556,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC00Ni0CJFFLpaPf3lyHx5NA",
     "follower_count": 26300,
-    "engagement_rate": 0.020972,
+    "engagement_rate": 0.011336,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -394,9 +565,18 @@
     ],
     "contact_email": "mohitdecodes@gmail.com",
     "website": null,
-    "recent_content_notes": "Mohit Decodes is my way of teaching coding in a simple and fast way. I share the coding tricks and techniques that took me years to learn, but in a way that saves you time! At Mohit Decodes, I keep my tutorials short, clear, and to the point. Youll get quick demos along with all the resources you need. Source code and other materials are available on my website: mohitdecodes.com and in every videos description. Learn quality programming in Hindi and English ! For business inquiries: mohitdecodes",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Mohit Decodes is my way of teaching coding in a simple and fast way. I share the coding tricks and techniques that took me years to learn, but in a way that saves you time!\n\nAt Mohit Decodes, I keep my tutorials short, clear, and to the point. You\u2019ll get quick demos along with all the resources you need. Source code and other materials are available on my website: mohitdecodes.com and in every video\u2019s description.\n\nLearn quality programming in Hindi and English !\n\n\ud83d\udce9 For business inquiries: mohit",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -405,7 +585,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UClSv7tWDA4wkCTLhZl1YBlw",
     "follower_count": 29000,
-    "engagement_rate": 0.52789,
+    "engagement_rate": 0.064547,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -413,9 +593,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Welcome to Learn Fast Make Things!",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Welcome to Learn Fast Make Things!\n\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -424,7 +613,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCYitV_YkpsfRaSkDZpaVz_A",
     "follower_count": 8870,
-    "engagement_rate": 0.060884,
+    "engagement_rate": 0.027297,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -432,9 +621,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Engineer who worked inside Alibaba , the world's largest commerce machine Now decoding AI + Marketing for global entrepreneurs.",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Engineer who worked inside Alibaba , the world's largest commerce machine \nNow decoding AI + Marketing for global entrepreneurs.\n\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -443,7 +641,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCh247h68vszOMA_OWpGEa5g",
     "follower_count": 45800,
-    "engagement_rate": 0.030006,
+    "engagement_rate": 0.507915,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -452,9 +650,18 @@
     ],
     "contact_email": "beto@codewithbeto.dev",
     "website": null,
-    "recent_content_notes": "Code with Beto: React Native & Expo Tutorials | Mobile Developer | Claude Code | AI | Content Creator | Open Source Contributor Business: beto@codewithbeto.dev",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Code with Beto: React Native & Expo Tutorials | Mobile Developer | Claude Code | AI | Content Creator | Open Source Contributor\n\nBusiness: beto@codewithbeto.dev\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -463,7 +670,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC8NDpwTbsFSeP7dkbl4hKeQ",
     "follower_count": 16100,
-    "engagement_rate": 0.326025,
+    "engagement_rate": 0.075078,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -472,9 +679,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Welcome to the DevOps Pro channel, where we're breaking down complex DevOps concepts and making them accessible to everyone! As a certified CKA and CKS professional, I'll be sharing my expertise and insider tips to help you crack these exams and become a DevOps Pro in no time. From Terraform and Kubernetes to Git & Github, Jenkins, Ansible, and more, our channel covers it all. And, to make learning even more engaging, we use animations to bring the concepts to life. Whether you're tuning in from",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Welcome to the DevOps Pro channel, where we're breaking down complex DevOps concepts and making them accessible to everyone!\nAs a certified CKA and CKS professional, I'll be sharing my expertise and insider tips to help you crack these exams and become a DevOps Pro in no time. From Terraform and Kubernetes to Git & Github, Jenkins, Ansible, and more, our channel covers it all. And, to make learning even more engaging, we use animations to bring the concepts to life. \nWhether you're tuning in fro",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -483,7 +699,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCCQf3U-8ZudL86fetgxiepg",
     "follower_count": 21600,
-    "engagement_rate": 0.165425,
+    "engagement_rate": 0.349468,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -494,9 +710,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Alta3 Research has been a leader in DevOps and Cloud training since 1997, helping thousands of professionals worldwide gain the skills needed to tackle real-world challenges and stay competitive in today's tech industry. We are excited to share that Alta3 Research is now the Certified Training Partner for ClearML, bringing enterprise-grade AI lifecycle, orchestration, and automation training directly to our learners. With our custom training platform, you can learn online or on-site using fully ",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Alta3 Research has been a leader in DevOps and Cloud training since 1997, helping thousands of professionals worldwide gain the skills needed to tackle real-world challenges and stay competitive in today's tech industry.\n\nWe are excited to share that Alta3 Research is now the Certified Training Partner for ClearML, bringing enterprise-grade AI lifecycle, orchestration, and automation training directly to our learners.\n\nWith our custom training platform, you can learn online or on-site using full",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -505,7 +730,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC7EVSn5inapL20oPSwAwEUg",
     "follower_count": 45900,
-    "engagement_rate": 0.13785,
+    "engagement_rate": 0.021699,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -513,9 +738,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Hey, World! I teach Programming.",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Hey, World! \ud83d\udc4b I teach Programming.",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 4
+      }
     }
   },
   {
@@ -524,7 +758,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC-77P2ONqHrW7h5r6MAqgSQ",
     "follower_count": 5980,
-    "engagement_rate": 0.125585,
+    "engagement_rate": 0.020736,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -535,9 +769,18 @@
     ],
     "contact_email": "dr.vipinclasses@gmail.com",
     "website": null,
-    "recent_content_notes": "Udemy Instructor | Instructor at Udemy | Dr Vipin Classes Programming Mobile Development Full-Stack Mastery Learn coding with structured guidance and real-world projects. Build powerful skills in modern technologies with clear, practical tutorials. This channel covers: React Flutter Android Node.js MongoDB Spring Boot Next.js Java Kotlin Python TypeScript Go Rust Dart Each video is designed with precision, simplicity, and real implementation so you dont just learn, you build and master. Udemy Co",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "\u25e2 \u25e4  Udemy Instructor | Instructor at Udemy | Dr Vipin Classes \n\n\u25e2 \u25e4 Programming \u2022 Mobile Development \u2022 Full-Stack Mastery\nLearn coding with structured guidance and real-world projects.\n\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\nBuild powerful skills in modern technologies with clear, practical tutorials.\nThis channel covers:\n\nReact \u2022 Flutter \u2022 Android \u2022 Node.js \u2022 MongoDB \u2022 Spring Boot \u2022 Next.js\nJava \u2022 Kotlin \u2022 Python \u2022 TypeScript \u2022 Go \u2022 Rust \u2022 Dart\n\nEach video is designed with precision, simplicity, and",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -546,7 +789,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCEO7KQgRI6K6XsyTJlF79nw",
     "follower_count": 13400,
-    "engagement_rate": 0.926754,
+    "engagement_rate": 0.014328,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -554,9 +797,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "I pride myself on being a resourceful technology and computer science education teacher. Experience in inspiring teaching journey. After helping people out for years, I've decided I wanted to reach as much as I can. This channel is all about providing computer science education to all types of students in a friendly way. If you like computers and programming or wanted to learn, this is the channel for you. In this channel, you will find all the modern programming languages. And If you need any C",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "I pride myself on being a resourceful technology and computer science education teacher. \nExperience in inspiring teaching journey.\nAfter helping people out for years, I've decided I wanted to reach as much as I can. \nThis channel is all about providing computer science education to all types of students in a friendly way. \nIf you like computers and programming or wanted to learn, this is the channel for you.\nIn this channel, you will find all the modern programming languages. \nAnd If you need a",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -564,8 +816,8 @@
     "name": "HackersArsenal ",
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UChH3vLF7j8PlgSTtOB9adJA",
-    "follower_count": 68300,
-    "engagement_rate": 0.043799,
+    "follower_count": 68400,
+    "engagement_rate": 0.424342,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -573,9 +825,18 @@
     ],
     "contact_email": "Hackersarsenal@proton.me",
     "website": null,
-    "recent_content_notes": "Welcome to Hackers Arsenal. I hope you enjoy the content and learn something new with every video. Thanks for being part of the journey! Instagram: @hackersarsenal Twitter/X: @hackersarsenal_ Proton Mail: [Hackersarsenal@proton.me](mailto:Hackersarsenal@proton.me) Discord Community: https://discord.gg/DbweRdckWB",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Welcome to Hackers Arsenal.\n\nI hope you enjoy the content and learn something new with every video. Thanks for being part of the journey!\n\nInstagram: @hackersarsenal\nTwitter/X: @hackersarsenal_\nProton Mail: [Hackersarsenal@proton.me](mailto:Hackersarsenal@proton.me)\nDiscord Community: https://discord.gg/DbweRdckWB\n\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -584,7 +845,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCciB0llbeGYFZTnP4N5whwA",
     "follower_count": 91200,
-    "engagement_rate": 0.037134,
+    "engagement_rate": 0.025813,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -592,9 +853,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Everything Tech and Cyber Security!",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Everything Tech and Cyber Security!\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -603,7 +873,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC1AQrBPOKXW5wBhVA5RwVPA",
     "follower_count": 19500,
-    "engagement_rate": 0.096017,
+    "engagement_rate": 0.063363,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -611,9 +881,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Exploring cybersecurity, ethical hacking, and the digital defense world.",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Exploring cybersecurity, ethical hacking, and the digital defense world.\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -622,7 +901,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCsmxzYUpDZxpvwpO7L7YwcQ",
     "follower_count": 79400,
-    "engagement_rate": 0.53301,
+    "engagement_rate": 0.004329,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -630,9 +909,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Welcome to KnowledgeCatch, the premier e-learning platform for staying up to date on the latest trends in technology. At KnowledgeCatch, our mission is to provide learners with the knowledge and skills they need to become innovators and change makers in their fields. We believe that by learning about the latest advances in technology, you can develop the critical thinking and problem solving skills that are essential for success in todays fast paced, constantly evolving world. The channel offers",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Welcome to KnowledgeCatch, the premier e-learning platform for staying up to date on the latest trends in technology.\n\nAt KnowledgeCatch, our mission is to provide learners with the knowledge and skills they need to become innovators and change makers in their fields. We believe that by learning about the latest advances in technology, you can develop the critical thinking and problem solving skills that are essential for success in today\u2019s fast paced, constantly evolving world.\n\nThe channel off",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -641,7 +929,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC6kV02-W8iXWgnCwkBAPk6Q",
     "follower_count": 53800,
-    "engagement_rate": 0.062424,
+    "engagement_rate": 0.97119,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -650,9 +938,18 @@
     ],
     "contact_email": "sleepycathey@gmail.com",
     "website": null,
-    "recent_content_notes": "Just a cat pretending to be a Linux user on Windows I make tech videos, mess around with random apps, question questionable stuff and occasionally make things more complicated than they should be Tutorials, experiments, questionable opinions and a suspicious amount of cat energy to have fun == Subscribe or Orange cat would come to your house and blow it up! Q: Is the voice TTS? Yah... I use TTS because I don't have a private place to record my own voice. What I do on YouTube isn't really support",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Just a cat pretending to be a Linux user on Windows \ud83d\udc27\n\nI make tech videos, mess around with random apps, question questionable stuff and occasionally make things more complicated than they should be \ud83e\udd40\n\nTutorials, experiments, questionable opinions and a suspicious amount of cat energy to have fun  =\uffe3\u03c9\uffe3=\n\nSubscribe or Orange cat would come to your house and blow it up! \ud83d\ude3e\n\nQ: Is the voice TTS?\nYah... I use TTS because I don't have a private place to record my own voice. What I do on YouTube isn't ",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -661,7 +958,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCNW7HDseZb6N3nKUEP6uLag",
     "follower_count": 63300,
-    "engagement_rate": 0.067883,
+    "engagement_rate": 0.233167,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -669,9 +966,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Whether you're just getting into tech or levelling up your coding skills, we're here to help you shine. What will you build?",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Whether you're just getting into tech or levelling up your coding skills, we're here to help you shine. What will you build?\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -680,7 +986,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCAys-Lg76QcRNGc0dOr_bXA",
     "follower_count": 38400,
-    "engagement_rate": 0.013672,
+    "engagement_rate": 0.028551,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -689,9 +995,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "I created this channel to share my passion for AI, Google Gemini, and Web Development, and to teach technologies like JavaScript, Angular, React, and everything that powers the modern Web Ecosystem. My mission is to make quality tech education accessible and FREE for everyone and I truly appreciate your support in making that possible! If youre new here, Ive been working as a Software Engineer for nearly a decade and am officially acknowledged by Google as a Google Developers Expert (GDE) in Ang",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "I created this channel to share my passion for AI, Google Gemini, and Web Development, and to teach technologies like JavaScript, Angular, React, and everything that powers the modern Web Ecosystem. My mission is to make quality tech education accessible and FREE for everyone \u2014 and I truly appreciate your support in making that possible!\n\nIf you\u2019re new here, I\u2019ve been working as a Software Engineer for nearly a decade and am officially acknowledged by Google as a Google Developers Expert (GDE) i",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -699,8 +1014,8 @@
     "name": "Harshita Verma",
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCh24AuWTKEYnerDW5dCN4PQ",
-    "follower_count": 57100,
-    "engagement_rate": 0.043604,
+    "follower_count": 57200,
+    "engagement_rate": 0.66958,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -710,9 +1025,18 @@
     ],
     "contact_email": "harshitavermaworkyt@gmail.com",
     "website": null,
-    "recent_content_notes": "I come from where most people feel stuck. I didnt have elite college tags or easy shortcuts. But I still cracked an internship at Goldman Sachs, a full-time role at a big MNC, and gigs with U.S.-based startups by figuring it all out, one painful step at a time. Im not here to teach. Im not here to sell you a dream. Im here because I was like you. Confused, overwhelmed, and searching for direction when nothing made sense. Today, I think like a builder. I move like a leader. But it didnt start tha",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "I come from where most people feel stuck.\n\nI didn\u2019t have elite college tags or easy shortcuts. But I still cracked an internship at Goldman Sachs, a full-time role at a big MNC, and gigs with U.S.-based startups by figuring it all out, one painful step at a time.\n\nI\u2019m not here to teach. I\u2019m not here to sell you a dream.\n\nI\u2019m here because I was like you. Confused, overwhelmed, and searching for direction when nothing made sense.\n\nToday, I think like a builder. I move like a leader. But it didn\u2019t ",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -721,7 +1045,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCqAL_b-jUOTPjrTSNl2SNaQ",
     "follower_count": 75000,
-    "engagement_rate": 0.018446,
+    "engagement_rate": 0.237,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -732,9 +1056,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Hello and welcome to my channel! I'm Gus, a Software Developer who loves sharing the learnings throughout the journey. At the moment, I work as a Software Engineer at Bosch, with experience in Web Development & Machine Learning (a weird mix, I know), and love pushing the limits. I share purely tech topics, career growth, lifehacks, and some fun content - so join me! Please consider SUBSCRIBING to the channel, if you like the content. If not, please, leave a comment on how I can improve it. All i",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Hello and welcome to my channel! \ud83d\udc4b  I'm Gus, a Software Developer who loves sharing the learnings throughout the journey. At the moment, I work as a Software Engineer at Bosch, with experience in Web Development & Machine Learning (a weird mix, I know), and love pushing the limits. I share purely tech topics, career growth, lifehacks, and some fun content - so join me!\n\nPlease consider SUBSCRIBING to the channel, if you like the content. If not, please, leave a comment on how I can improve it. A",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -743,7 +1076,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC-NectJyXinXyZtGmovWI3g",
     "follower_count": 18300,
-    "engagement_rate": 0.146721,
+    "engagement_rate": 0.767077,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -753,9 +1086,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Hi, Im a software engineer passionate about tech, storytelling and sharing real experiences from the industry. On this channel, I talk about what software engineering interviews are really like at top companies, sharing my own experiences, system design concepts and what actually worked in my preparation. Youll also find conversations with engineers and founders about careers, growth and behind-the-scenes life in tech. Occasionally, I share travel videos and vlogs too because life isnt all code.",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Hi, I\u2019m a software engineer passionate about tech, storytelling and sharing real experiences from the industry.\n\nOn this channel, I talk about what software engineering interviews are really like at top companies, sharing my own experiences, system design concepts and what actually worked in my preparation.\n\nYou\u2019ll also find conversations with engineers and founders about careers, growth and behind-the-scenes life in tech. Occasionally, I share travel videos and vlogs too because life isn\u2019t all ",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -763,8 +1105,8 @@
     "name": "Codist ",
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCo-yQhAKie0WCV7-E-z9Mog",
-    "follower_count": 59600,
-    "engagement_rate": 0.182912,
+    "follower_count": 59700,
+    "engagement_rate": 0.011662,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -775,9 +1117,18 @@
     ],
     "contact_email": "codiversitydev@gmail.com",
     "website": null,
-    "recent_content_notes": "Computer Science, Artificial Intelligence, Machine Learning, Data Science, Web Development, DevOps, System Design, Web3 related easy explainer type video twice every week. Business Inquiries & Partnerships: codiversitydev@gmail.com",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Computer Science, Artificial Intelligence, Machine Learning, Data Science, Web Development, DevOps, System Design, Web3  related easy explainer type video twice every week.\n\n\ud83d\udc8c Business Inquiries & Partnerships:  codiversitydev@gmail.com\n\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 5
+      }
     }
   },
   {
@@ -786,7 +1137,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCLB8iajuHf8g_lipb5Wycow",
     "follower_count": 24700,
-    "engagement_rate": 0.08167,
+    "engagement_rate": 0.027034,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -794,9 +1145,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
     "recent_content_notes": "Check out technical interviewing and career tips from Anthony D. Mays, software engineer, founder and career coach at morganlatimer.com.",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -805,7 +1165,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCuxhTSKtnMJizinblLs9xOA",
     "follower_count": 85100,
-    "engagement_rate": 0.070423,
+    "engagement_rate": 0.323296,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -813,9 +1173,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "I create tech tutorials for builders No sponsors, no affiliates",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "I create tech tutorials for builders \ud83d\udee0\ufe0f No sponsors, no affiliates \ud83d\ude45\u200d\u2642\ufe0f\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -824,7 +1193,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCwcXQMYphMbpuw8ok9HQguw",
     "follower_count": 53700,
-    "engagement_rate": 0.534711,
+    "engagement_rate": 0.066518,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -832,9 +1201,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "For obvious reasons, I'm Josh... Welcome to Code with Josh! Are you ready to transform your understanding of Programming? Follow along as I break down all that complex tech jargon into terms you can easily understand! Trying to make a non-boring coding channel Subscribe and hit the notification bell to stay updated with my Python content and hacks! Newsletter Subscribers get a FREE Handcrafted Python and Git PDF Guide!",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "\ud83d\udca5For obvious reasons, I'm Josh...\n\nWelcome to Code with Josh!\n\nAre you ready to transform your understanding of Programming?\n\n\ud83d\udcdaFollow along as I break down all that complex tech jargon into terms you can easily understand!\n\nTrying to make a non-boring coding channel \u270c\ufe0f\n\n\ud83d\udd14 Subscribe and hit the notification bell to stay updated with my Python content and hacks! \n\nNewsletter Subscribers get a FREE Handcrafted Python and Git PDF Guide!\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -842,8 +1220,8 @@
     "name": "Hexagon Digital Services",
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCzrW5QOZjdEMDUukZSeAPGQ",
-    "follower_count": 8430,
-    "engagement_rate": 0.012218,
+    "follower_count": 8460,
+    "engagement_rate": 0.578723,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -853,9 +1231,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Welcome to Hexagon Digital Services a learning-driven technology channel focused on teaching concepts through clear explanations and hands-on practice. This channel is designed for students, self-learners, and developers who want to build strong fundamentals and apply them through real-world projects and tutorials. We believe in learning by doing breaking down complex topics into simple, structured lessons that are easy to follow and practical to implement. Youll find: Step-by-step tutorials Pro",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Welcome to Hexagon Digital Services \u2014 a learning-driven technology channel focused on teaching concepts through clear explanations and hands-on practice.\nThis channel is designed for students, self-learners, and developers who want to build strong fundamentals and apply them through real-world projects and tutorials.\nWe believe in learning by doing \u2014 breaking down complex topics into simple, structured lessons that are easy to follow and practical to implement.\nYou\u2019ll find:\nStep-by-step tutorial",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -864,7 +1251,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCSZSC4ej44cf4bVeJt5Cumw",
     "follower_count": 6960,
-    "engagement_rate": 0.038325,
+    "engagement_rate": 0.409357,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -872,9 +1259,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
     "recent_content_notes": "Your portal to web development mastery. Learn to code, conquer challenges, and explore the digital frontier with us. Subscribe now to become a WebDev Warrior!",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -883,7 +1279,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UC5dPmW7ZTsLyIqd-M4cs8EA",
     "follower_count": 30800,
-    "engagement_rate": 0.214351,
+    "engagement_rate": 0.200893,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -891,9 +1287,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
     "recent_content_notes": "Learn Web Development by building web interfaces using HTML, CSS, JavaScript, React JS, Next JS and more.",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -902,7 +1307,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCObrjoZZJSjznfCO5Vx9qUQ",
     "follower_count": 45800,
-    "engagement_rate": 0.074426,
+    "engagement_rate": 0.100868,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -910,9 +1315,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Advance your web development skills with tutorials on React, Typescript, GraphQL and etc. Please fill out this survey to help us better plan our content https://iu6kc6m43a5.typeform.com/to/H6CP2ILg If you'd like to support the channel: buymeacoff.ee/webdecoded5",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Advance your web development skills with tutorials on React, Typescript, GraphQL and etc.\nPlease fill out this survey to help us better plan our content\nhttps://iu6kc6m43a5.typeform.com/to/H6CP2ILg\n\nIf you'd like to support the channel:\nbuymeacoff.ee/webdecoded5\n\n\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -921,7 +1335,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCKZZiXKJ8rU7LkRaTS2CDcA",
     "follower_count": 23400,
-    "engagement_rate": 0.072141,
+    "engagement_rate": 0.010545,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -929,9 +1343,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
     "recent_content_notes": "Share your videos with friends, family and the world",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -940,7 +1363,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCUTNzbcHrwLItUXBMCS7A8w",
     "follower_count": 62000,
-    "engagement_rate": 0.29437,
+    "engagement_rate": 0.099462,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -948,9 +1371,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
     "recent_content_notes": "Share your videos with friends, family and the world",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 3
+      }
     }
   },
   {
@@ -959,7 +1391,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCRQXXUJQ2neA0CkbF_ZLhPA",
     "follower_count": 7230,
-    "engagement_rate": 0.194898,
+    "engagement_rate": 0.124516,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -967,9 +1399,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
     "recent_content_notes": "Share your videos with friends, family and the world",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 4
+      }
     }
   },
   {
@@ -978,7 +1419,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UColtS35pWaswSV634-n-H3A",
     "follower_count": 29100,
-    "engagement_rate": 0.397973,
+    "engagement_rate": 0.107569,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -988,9 +1429,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
     "recent_content_notes": "\"Everyday Data Science\" is a YouTube channel that offers insightful and informative videos on Data Science, Machine Learning, Python, SQL, and related topics. The channel caters to beginners as well as advanced learners, providing easy-to-understand explanations of complex concepts with practical examples. Viewers can expect to learn about various data analysis techniques, data visualization, statistical models, and programming languages. The channel is perfect for anyone interested in building ",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -998,8 +1448,8 @@
     "name": "Codebagel",
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UChqNJc6T93_uRl2nvmoBm4Q",
-    "follower_count": 83400,
-    "engagement_rate": 0.095296,
+    "follower_count": 83500,
+    "engagement_rate": 0.01562,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -1008,9 +1458,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Sharing my authentic journey and perspectives in tech, productivity, career growth, and more. This is a non-monetized personal hobby channel no services or products are offered. Opinions expressed are solely my own and do not express the views or opinions of my employer.",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Sharing my authentic journey and perspectives in tech, productivity, career growth, and more.\n\nThis is a non-monetized personal hobby channel \u2013 no services or products are offered. Opinions expressed are solely my own and do not express the views or opinions of my employer.\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -1019,7 +1478,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCiWsQBA97JYGntWs99ZrQmw",
     "follower_count": 10700,
-    "engagement_rate": 0.095327,
+    "engagement_rate": 0.040961,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -1027,9 +1486,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Simplifying Tech for Developers | Java | AWS | Spring Boot | DSA | Developer Growth Welcome to Code With Ease, where I break down complex coding concepts into easy-to-understand nuggets. Data Structures & Algorithms (DSA) Clear explanations & problem-solving strategies Java, AWS & Spring Boot Practical, real-world coding insights Tech Career & Developer Growth Mentorship, learning resources & community building Beyond just solving coding problems, this channel is about helping developers grow, b",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": " Simplifying Tech for Developers | Java | AWS | Spring Boot | DSA | Developer Growth\n\nWelcome to Code With Ease, where I break down complex coding concepts into easy-to-understand nuggets. \ud83d\ude80\n\n\u2705 Data Structures & Algorithms (DSA) \u2013 Clear explanations & problem-solving strategies\n\u2705 Java, AWS & Spring Boot \u2013 Practical, real-world coding insights\n\u2705 Tech Career & Developer Growth \u2013 Mentorship, learning resources & community building\n\nBeyond just solving coding problems, this channel is about helping ",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 7
+      }
     }
   },
   {
@@ -1038,7 +1506,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCCKAEO4_rqh1GTMxg9H6_sQ",
     "follower_count": 46900,
-    "engagement_rate": 0.184758,
+    "engagement_rate": 0.208265,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -1046,9 +1514,18 @@
     ],
     "contact_email": "Not Found",
     "website": null,
-    "recent_content_notes": "Learn the patterns and solve any problems: http://algo.monster, brought to you by ex-Google engineers.",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Learn the patterns and solve any problems: http://algo.monster, brought to you by ex-Google engineers.\n",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "not_found",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   },
   {
@@ -1057,7 +1534,7 @@
     "platform": "youtube",
     "profile_url": "https://www.youtube.com/channel/UCCuavXcwK5psq89d0wlDM_w",
     "follower_count": 22100,
-    "engagement_rate": 0.131946,
+    "engagement_rate": 0.0175,
     "category": "technology",
     "content_themes": [
       "technology",
@@ -1066,9 +1543,18 @@
     ],
     "contact_email": "contact@cloudtechburner.com",
     "website": null,
-    "recent_content_notes": "Hi:- My name is Prashant Kumar Shukla and I love visualizations and if you want to learn Cloud Computing the fun way, Join me because all my videos are Visually Explained Cloud Computing Services / Topics. Apart from the ones where I code or give a hands-on demo of course :) Learn Once. Never Forget ant handwritten notes? Just follow these simple steps: Step 1: Purchase through the link below. Step 2: Download/Scan QR or pay via UPI provided . Step 3: After payment, paste your Transaction ID in ",
+    "audience_age": null,
+    "audience_gender": null,
+    "audience_geography": null,
+    "recent_content_notes": "Hi:-\nMy name is Prashant Kumar Shukla and I love visualizations and if you want to learn Cloud Computing the fun way, Join me because all my videos are Visually Explained Cloud Computing Services / Topics.\nApart from the ones where I code or give a hands-on demo of course :)\nLearn Once. Never Forget\n\nant handwritten notes? Just follow these simple steps:\n\nStep 1: Purchase through the link below.\nStep 2: Download/Scan QR or pay via UPI provided .\nStep 3: After payment, paste your Transaction ID i",
     "raw": {
-      "notes_source": "public_meta"
+      "enriched": true,
+      "email_source": "public_text",
+      "deep": true,
+      "youtube_metrics": {
+        "engagement_method": "mean(views)/subscribers over recent public videos",
+        "recent_videos_scored": 8
+      }
     }
   }
 ]

@@ -1,0 +1,9 @@
+{
+  "profiles": 54,
+  "emails_found": 15,
+  "emails_not_found": 39,
+  "with_audience_geography": 0,
+  "with_real_engagement_method": 54,
+  "avg_engagement": 0.202638,
+  "integrity": "public YouTube view/interaction stats + validated public emails only"
+}

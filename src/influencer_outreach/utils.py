@@ -9,6 +9,35 @@ from typing import Iterable
 
 EMAIL_RE = re.compile(r"[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}")
 
+# Conservative public mailbox TLDs — rejects JS token false positives.
+_ALLOWED_TLDS = {
+    "com",
+    "org",
+    "net",
+    "io",
+    "ai",
+    "dev",
+    "me",
+    "co",
+    "in",
+    "uk",
+    "us",
+    "ca",
+    "de",
+    "app",
+    "tech",
+    "xyz",
+    "info",
+    "biz",
+    "edu",
+    "gov",
+    "pro",
+    "tv",
+    "cc",
+    "so",
+    "gg",
+}
+
 
 def setup_logging(level: str = "INFO") -> None:
     logging.basicConfig(
@@ -26,11 +55,38 @@ def extract_emails(text: str) -> list[str]:
     if not text:
         return []
     found = EMAIL_RE.findall(text)
-    # Filter common junk tokens that look like emails in JS blobs
     cleaned: list[str] = []
+    junk_substrings = (
+        "example.com",
+        "email.com",
+        "domain.com",
+        "sentry.io",
+        "wixpress.com",
+        "schema.org",
+        "google.com",
+        "youtube.com",
+        "gstatic.com",
+        "window.",
+        "document.",
+        "useragent",
+        "webpack",
+        "jquery",
+        "loc@ion",
+        "navig@",
+    )
     for email in found:
-        lower = email.lower()
-        if any(x in lower for x in ("example.com", "email.com", "domain.com", "sentry.io")):
+        lower = email.lower().strip(".")
+        local, _, domain = lower.partition("@")
+        if any(x in lower for x in junk_substrings):
+            continue
+        if not local or not domain or "." not in domain:
+            continue
+        tld = domain.rsplit(".", 1)[-1]
+        if tld not in _ALLOWED_TLDS:
+            continue
+        if len(local) < 2 or local.startswith(".") or domain.startswith("."):
+            continue
+        if any(tok in local for tok in ("window", "document", "function", "undefined")):
             continue
         if lower not in {c.lower() for c in cleaned}:
             cleaned.append(email)

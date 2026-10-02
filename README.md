@@ -87,16 +87,19 @@ Example subjects from the real LLM run:
 
 ### Live sample run metrics
 
-From [`examples/sample_run/run_summary.json`](examples/sample_run/run_summary.json):
+From [`examples/sample_run/run_summary.json`](examples/sample_run/run_summary.json) + [`enrichment_quality.json`](examples/sample_run/enrichment_quality.json):
 
 | Metric | Value |
 |--------|-------|
 | Niche | technology |
 | Discovered | 55 |
 | Passed micro + brand-fit filter | 54 |
-| Messages generated | 54 |
-| Emails simulated (public address found) | 15 |
-| Emails skipped (`Not Found`) | remainder |
+| Messages generated (LLM-refined) | 54 |
+| Validated public emails | **15** (rest explicitly `Not Found`) |
+| Engagement method | **mean(recent video views) / subscribers** (public yt-dlp stats) |
+| Emails simulated | 15 |
+
+**Integrity:** no guessed emails, no fabricated follower/engagement numbers. Missing contacts stay `Not Found`.
 
 Open the static demo page locally after clone:
 
