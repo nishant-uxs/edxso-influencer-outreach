@@ -51,10 +51,14 @@ Example subjects from the real LLM run:
 - *Engineering rigor in AI content: Collaboration with EDXSO*
 - *Patrick, leveling up software engineers with applied AI tools*
 
+**Live demo:** https://edxso-influencer-outreach.vercel.app  
+**Repo:** https://github.com/nishant-uxs/edxso-influencer-outreach
+
 ## Submission pack (Assignment §10)
 
 | Requirement | Link / location |
 |-------------|-----------------|
+| Live demo | https://edxso-influencer-outreach.vercel.app |
 | GitHub repository | https://github.com/nishant-uxs/edxso-influencer-outreach |
 | README / documentation | This file + [Architecture diagrams](#architecture) |
 | Working demo / screenshots | [docs/screenshots/](docs/screenshots/) · [docs/demo/](docs/demo/) |
